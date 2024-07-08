@@ -1,0 +1,71 @@
+project:
+  type: website
+  preview: 
+    browser: true
+    port: 4500
+
+website:
+  title: "Defimedia"
+  twitter-card: true
+  open-graph: true
+  page-navigation: true
+  navbar:
+    background: black
+    toggle-position: right
+    right:
+      - text: 'Home'
+        href: index.qmd
+      - text: 'General Purpose'
+        href: about.qmd
+      - text: 'The Concerned Citizen'
+        href: "posts.qmd"
+      - text: 'The Second Republic'
+        href: "constitution.qmd"
+  sidebar: 
+    - title: The Second Republic Project
+      contents:
+        - posts/prologue.qmd
+        - posts/chapterone.qmd
+        - posts/chaptertwo.qmd
+        - posts/chapterthree.qmd
+    - title: The Second Republic White Paper
+      contents:
+        - constitution/preamble.qmd
+        - constitution/Decentralization.qmd
+        - constitution/Legislative.qmd
+        - constitution/Executive.qmd
+        - constitution/Judiciary.qmd
+        - constitution/Rights.qmd
+        - constitution/Elections.qmd
+        - constitution/Compensation.qmd
+        - constitution/Impeachment.qmd
+        - constitution/Amendements.qmd
+        
+
+
+  page-footer:
+    background: black
+    left: 
+      - text: 'Home'
+        href: index.qmd
+      - text: 'GP'
+        href: 'about.qmd'
+      - text: 'TCC'
+        href: posts.qmd
+      - text: 'TSR'
+        href: constitution.qmd
+      - text: 'Disclaimer'
+        href: disclaimer.qmd
+
+format:
+  html:
+    theme: [lux, style.scss]
+    css: styles.css
+    toc: false
+    grid:
+      sidebar-width: 0px
+      body-width: 1000px
+      margin-width: 0px
+
+execute: 
+  freeze: auto

@@ -1,0 +1,14 @@
+---
+listing: 
+  contents: posts # all Quarto docs in the `posts` directory will be included on your listing page
+  type: table # or `default` or `table`; each type has its own set of yaml options to include
+  fields: [author,title,subtitle,date]
+  sort: "date desc" # can also sort on more than one field
+  categories: false # allows you to sort posts by assigned categories 
+page-layout: article
+---
+
+:::{.box .bs-right}
+
+# The Concerned Citizen Journal
+:::

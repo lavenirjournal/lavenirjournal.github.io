@@ -1,0 +1,35 @@
+---
+listing: 
+  contents: posts # all Quarto docs in the `posts` directory will be included on your listing page
+  type: default # or `default` or `table`; each type has its own set of yaml options to include
+  fields: [author,date,title]
+  sort: "date desc" # can also sort on more than one field
+  categories: false # allows you to sort posts by assigned categories
+format: 
+  html:
+    page-layout: full
+---
+
+:::{.box .bs-right}
+
+# The Citizen Gazette
+:::
+
+:::{.box .bs-bottom .ji}
+:::{.center}
+## TO THE PEOPLE OF THE REPUBLIC OF MAURITIUS   
+:::
+After 56 painful years of letting yourself get played by politicians using religion and race to fool you, you are hereby called upon to deliberate the fate of your own country as it inches closer to total collapse with every passing day. To be able to do that, you must be bold, daring and willing to try to understand the world as it is. Not as you wished it could be. Therefore, you are encouraged to start right now, by embracing what you have been dying to affirm, but could not because not a single political party wanted to admit the disgusting truth that hangs over their heads. After all, they built their successes on your suffering for 56 years. That disgusting truth? The Republic of Mauritius is not a Republic in any way or form but rather a dynastic cesspool of compromises between political families and the private sector families that hinges on race supremacy, ironically in both cases. Indeed, the country as a whole in their heart bitterly awaits since 12 March 1968, the day they will finally get to experience true independence.
+
+Which is why, you must understand the reason why it is so taboo to call out the disgusting truth. It is because of what it entails in practice. Merit and talent have now been homeless in our beloved country for 56 years. The only reason this fact is taboo, is because most of the people who are at the top in the public and private sectors, currently do not deserve to stay at the top. They are not pulling their weight. They are liabilities. Deadweights the country needs to get rid of one way or another. Deadweights we will get rid of. See, most of them are currently holding onto a rope. A rope that is tied around your neck and mine. That rope is called you. Your neck holds the noose that people in both the private and public sectors keeps pulling on, tightening it with all their might, to be able to compensate for the incompetence by strangling you a bit more everyday. They cannot afford to stay where they are without indulging you in more suffering, the more you let them keep their positions as dead weights. 
+
+This has been going on for 56 years now. You are letting unproductive people dictate the game. People that must imperatively use cheaper imported labor, and public funds as their crutch. These people need to fund their lifestyle by tightening the noose around your neck a little harder every extra day so they get to stay at the top by passing the cost of their extravagant lifestyle on you through inflation. These people are bullies. Bullies that needs a taste of their of own medicine.
+
+---**YUUKI**
+
+
+:::
+
+:::{.center .box .bs-right}
+# THE CONCERNED CITIZEN
+:::

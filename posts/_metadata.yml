@@ -1,0 +1,25 @@
+page-layout: article
+sidebar: false
+copyright: "Copyright Yuuki. 2024. All Rights Reserved"
+license: "CC BY-SA"
+jupyter: python3
+title-block-banner: true
+format:
+  html:
+    code-fold: true
+    code-summary: "Show the code"
+    default-image-extension: svg
+    include-in-header: 
+          - ../back.html
+          - ../bar.html
+include-in-header:
+      - text: |
+           <script type="text/x-mathjax-config">
+               MathJax.Hub.Config({
+                  extensions: ["tex2jax.js", "TeX/AMSmath.js"],
+                  jax: ["input/TeX", "output/SVG"],
+                  SVG: {linebreaks : { automatic: true }}
+               })
+            </script>
+
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=default"></script>

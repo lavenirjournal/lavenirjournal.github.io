@@ -1,0 +1,86 @@
+{
+  "index.qmd": {
+    "index.html": "b1f7bfdf"
+  },
+  "about.qmd": {
+    "about.html": "dd90ad4f"
+  },
+  "submission.qmd": {
+    "submission.html": "0ea609f8"
+  },
+  "new.qmd": {
+    "new.html": "30dc7acd"
+  },
+  "posts/article one.qmd": {
+    "article one.html": "48361d52"
+  },
+  "posts/article two.qmd": {
+    "article two.html": "b4944c1f"
+  },
+  "posts/article three.qmd": {
+    "article three.html": "a5241b51"
+  },
+  "posts.qmd": {
+    "posts.html": "7dfc2560"
+  },
+  "posts/numberone.qmd": {
+    "numberone.html": "7940cb52"
+  },
+  "posts/numbertwo.qmd": {
+    "numbertwo.html": "dca1036a"
+  },
+  "posts/numberthree.qmd": {
+    "numberthree.html": "a21a8821"
+  },
+  "posts/prologue.qmd": {
+    "prologue.html": "73372347"
+  },
+  "posts/macro.qmd": {
+    "macro.html": "ad35ed09"
+  },
+  "posts/chapterone.qmd": {
+    "chapterone.html": "1d3d911c"
+  },
+  "404.qmd": {
+    "404.html": "c2fc8236"
+  },
+  "posts/chaptertwo.qmd": {
+    "chaptertwo.html": "9493286d"
+  },
+  "constitution/preamble.qmd": {
+    "preamble.html": "8d0022d3"
+  },
+  "constitution/Executive.qmd": {
+    "Executive.html": "56caa629"
+  },
+  "constitution.qmd": {
+    "constitution.html": "bd9cd948"
+  },
+  "constitution/Legislative.qmd": {
+    "Legislative.html": "704a48c2"
+  },
+  "constitution/Rights.qmd": {
+    "Rights.html": "feec3805"
+  },
+  "constitution/Decentralization.qmd": {
+    "Decentralization.html": "ae146347"
+  },
+  "constitution/Judiciary.qmd": {
+    "Judiciary.html": "e8090bfc"
+  },
+  "constitution/Impeachment.qmd": {
+    "Impeachment.html": "64b12df5"
+  },
+  "constitution/Elections.qmd": {
+    "Elections.html": "35e2b22e"
+  },
+  "constitution/Compensation.qmd": {
+    "Compensation.html": "12bff43d"
+  },
+  "constitution/Amendements.qmd": {
+    "Amendements.html": "64873b29"
+  },
+  "disclaimer.qmd": {
+    "disclaimer.html": "6c0b184e"
+  }
+}

@@ -1,0 +1,50 @@
+
+
+
+:::{.box .bs-right}
+
+# Compensation
+:::
+
+:::{.box .bs-bottom }
+
+:::{.text-center}
+Section 1
+:::
+
+All elected officials shall receive a Compensation with benefits for their Services, to be ascertained by Law, and paid out of the Treasury of the Republic of Mauritius.
+
+No law, varying the compensation for the services of any elected officials, shall take effect, until the next round of election shall have intervened for the office in controversy.
+
+:::{.text-center}
+Section 2
+:::
+
+No public or para-public sector job shall have discrete remuneration or raises. Rather general schedules will be created consisting of grades, steps and benefits and a single mechanic of revaluation applying to all schedules, as shall be ascertained by Law. 
+
+Gamification principles shall be used to ascertain the skills and education each grade requires, skills being fair to man and woman.
+
+Every public sector job shall belong to a schedule and have a grade attached to it. Steps shall be based on lengths of service. All forms of remuneration shall be recorded and studied to find a median aggregate pay. Aggregate Pay of officials that is one standard deviation above the median shall be public information.
+
+All forms of remuneration of elected officials shall be public as well as their pensions.
+
+:::{.text-center}
+Section 3
+:::
+
+Total pension to be paid for the service of an elected official after his term ends by the state using the people's money shall be calculated using the following formulation being careful to always take highest pension $p_{h}$ to the lowest pension $p_{l}$ in the following fashion.
+
+\begin{equation} \sum_{n=1}^{\infty} \sum_{p=h}^{l} \frac{1}{n} p \end{equation} for $n$ starting at 1.
+
+All past elected officials and government officials of the First Republic of Mauritius who profited through the existence of the First Republic of Mauritius receiving a pension paid by the People of the Republic of Mauritius shall have the possibility to relinquish all future cash flow of their state pensions as compensation in a quid pro quo restitution in exchange for immunity against prosecution for their past financial crimes whereby money was expropriated from the Republic of Mauritius.^[ The beauty of compromise, so we may put the past behind us and focus on the future for those who wishes to. I will extend the courtesy. I will not be merciful to any who does respond in kind. My kindness has limits to it. ]
+
+
+:::{.text-center}
+Section 4
+:::
+
+The base pay of the President shall be based on the median income of the top 10 domestic earners. Said number shall be discounted by 40\% and then multiplied by 2 to get the Presidential basic pay. His administration executives shall 
+receive the said number discounted by 50\% as base pay.^[Courtesy of Lee Kwan Yew's Genius of how to prevent corruption, which I too am a big believer of.]
+
+
+:::

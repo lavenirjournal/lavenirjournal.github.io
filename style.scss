@@ -1,0 +1,180 @@
+
+/*-- scss:defaults --*/
+@import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,400;0,500;0,700&display=swap');
+
+
+p {
+  text-align: justify !important
+}
+
+div.quarto-listing-container-default {
+
+  padding: 20px !important;
+  box-shadow: 8px 8px 0px #939bc9;
+  border: 1px solid #333;
+  width: 100% !important;
+}
+
+
+div.list.quarto-listing-default > div.quarto-post.image-right{
+  opacity:0.6;
+  transition: opacity 2s;
+}
+
+div.list.quarto-listing-default > div.quarto-post.image-right:hover {
+  opacity: 1;
+
+}
+svg > g > use{
+  white-space: normal !important;
+}
+
+
+div.quarto-listing-container-grid.quarto-listing {
+  padding: 20px !important;
+  box-shadow: 8px 8px 0px #939bc9;
+  border: 1px solid #333;
+}
+
+
+code.sourceCode.python > span:nth-child(n) {
+  font-family: 'Fira Code' !important ;
+  font-size: 14.85px
+}
+
+.text-center > p {
+  text-align: center !important;
+}
+.center{
+  margin:auto;
+  text-align: center;
+  padding: 20px;
+}
+
+.special {
+  padding: 10px;
+  width:85%;
+  font-size: 20px;
+  text-align: justify !important;
+}
+
+span > * {
+  font-family: 'Fira Code' !important ;
+  font-size: 14.85px
+}
+
+.ji > p {
+  text-align: justify;
+  hyphens: auto;
+  -webkit-hyphens: auto;
+  font-family: 'Atkinson Hyperlegible' ;
+  font-size: 20px;
+  padding: 20px;
+  color: #000000;
+  text-indent: 3%;
+
+}
+li > span.menu-text:last-child{
+  border: 2px solid black;
+}
+
+@media (max-width: 991.98px) {
+
+  .ji > p {
+    font-size: 16px;
+    padding: 3px;
+  }
+  .special{
+    font-size: 15px;
+  }
+}
+
+@media (max-width: 380px) {
+  div.nav-footer {
+    width:405px !important
+  }
+  div.quarto-container {
+    width:405px;
+  }
+  body.fullcontent{
+    width: 405px;
+  }
+  span.nav-page-text {
+    font-size: 15px !important;
+  }
+}
+
+.bs-right {
+  box-shadow: 8px 8px 0px #0d0d0e;
+  margin: 2em 0em;
+  text-align: center;
+}
+
+.bs-bottom {
+  box-shadow: 8px 8px 0px #939bc9;
+}
+
+.box {
+  color: #333;
+  border: 1px solid #333;
+  padding:20px;
+  width:100%;
+}
+/*
+.box:hover {
+  color: #333;
+  box-shadow: -1px 1px gray, -2px 2px gray, -4px 4px gray;
+  border: 1px solid #333;
+  padding:20px;
+} */
+
+.navbar {
+  padding:0px !important;
+}
+.navbar-title{
+  color: black;
+  font-size: 25px;
+}
+
+.navbar-title:hover{
+   color: navy;
+}
+
+div.nav-footer{
+  background-color:black;
+}
+
+* {
+  font-family: 'Atkinson Hyperlegible';
+}
+
+
+
+#quarto-content {
+  background-color: #F6FFFE !important;
+  color: #000000 !important;
+
+}
+
+
+div.quarto-title-banner {
+  background-color: #F6FFFE !important;
+
+}
+
+body.nav-fixed.fullcontent {
+  background-color: #F6FFFE !important;
+  }
+
+/*body {
+  background-color: #F6FFFE !important;
+}
+
+* {
+  color: #001B44 !important;
+  border-color: #001B44 !important;
+}
+

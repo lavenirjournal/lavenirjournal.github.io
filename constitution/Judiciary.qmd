@@ -1,0 +1,45 @@
+
+:::{.box .bs-right}
+
+# The Judicial Branch
+:::
+
+:::{.box .bs-bottom }
+
+:::{.text-center} 
+Section 1
+:::
+
+The Judicial Power of Mauritius, shall be vested in one Supreme Court, and in such inferior Courts as the National Assembly may from time to time ordain and establish.
+
+:::{.text-center} 
+Section 2
+:::
+
+Mauritius shall have a Chief Justice to be appointed by the President, with advice and consent of two thirds of the National Assembly and two associate Justices. The Chief Justice shall serve for life so long as he ensures good behavior and shall be justly compensated for their service.
+
+:::{.text-center} 
+Section 3
+:::
+
+The Supreme Court is the court of last resort with power to determine the constitutionality of any law, executive order, regulation or official act, election.^[A real republic should not have to discriminate between who can get justice or not. The privy council is costly, and an acknowledgement that we have now been a banana republic for 56 years. It is now time to let it go and do the responsible thing. Setup a reliable court, which will allow for Justice to be possible equally for all citizens of the Republic, not only rich people who can afford to go to the privy council. ]
+
+:::{.text-center} 
+Section 4
+:::
+
+The Judicial Power shall extend to all Cases, in Law and Equity, arising under this Constitution, the Laws of Mauritius, and Treaties made, or which shall be made, under their Authority and To all Controversies to which the Republic or any of its various components shall be a Party.
+
+:::{.text-center} 
+Section 3
+:::
+
+In all Cases concerning Impeachments, and those in which two or more Districts or the state and a district shall be Party, the Supreme Court shall have original Jurisdiction. In all the other Cases before mentioned, the Supreme Court shall have appellate Jurisdiction, both as to Law and Fact, with such Exceptions, and under such Regulations as the National Assembly shall make.
+
+:::{.text-center} 
+Section 4
+:::
+
+The Trial of all Crimes, except in Cases of Impeachment, shall be by Jury; and such Trial shall be held in the District where the said Crimes shall have been committed; but when not committed within any District, the Trial shall be at such Place or Places as the National Assembly may by Law have directed.
+
+:::

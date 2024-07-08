@@ -1,0 +1,33 @@
+[
+  {
+    "listing": "/index.html",
+    "items": [
+      "/posts/prologue.html",
+      "/posts/chapterone.html",
+      "/posts/chaptertwo.html"
+    ]
+  },
+  {
+    "listing": "/posts.html",
+    "items": [
+      "/posts/prologue.html",
+      "/posts/chapterone.html",
+      "/posts/chaptertwo.html"
+    ]
+  },
+  {
+    "listing": "/constitution.html",
+    "items": [
+      "/constitution/preamble.html",
+      "/constitution/Amendements.html",
+      "/constitution/Rights.html",
+      "/constitution/Legislative.html",
+      "/constitution/Judiciary.html",
+      "/constitution/Executive.html",
+      "/constitution/Impeachment.html",
+      "/constitution/Elections.html",
+      "/constitution/Decentralization.html",
+      "/constitution/Compensation.html"
+    ]
+  }
+]

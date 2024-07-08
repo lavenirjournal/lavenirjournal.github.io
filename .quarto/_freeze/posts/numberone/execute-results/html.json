@@ -1,0 +1,12 @@
+{
+  "hash": "df625dedee6074b3f229dcd770c65eb9",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: The burden of existing\npage-navigation: true\nsubtitle: This paper discusses the existence of an objective reality\nauthor: Yuuki\ndate: 25 March 2024\nformat:\n  html:\n    page-layout: article\n---\n\n# Introduction\n\nThis is the introduction of the article. Awesome is it not ? Quarto is da best shit in this country to exist.\n\n",
+    "supporting": [
+      "numberone_files/figure-html"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}
