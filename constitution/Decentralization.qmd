@@ -28,7 +28,7 @@ Section 3
 All executive agencies shall be created by acts of the National Assembly. The President may from time to time re-organise his executive departments or seek creation of an agency if his changes be approved by two thirds of the National Assembly.
 
 :::{.text-center} 
-Section 3
+Section 4
 :::
 
 This constitution is the Supreme law of Mauritius and if any other law applicable in the land is believed by a citizen to be inconsistent with this constitution, and the application of it affects said citizen's life. Such a citizen shall be entitled to challenge the law in any court of Mauritius he may deem fit. The same shall apply to businesses. 
@@ -52,13 +52,13 @@ Each district shall have its own autonomy to run its day to day administration, 
 Section 7
 :::
 
-Each District shall have its own representative of the Judiciary in a District Attorney who shall in good faith, defend the constitution of the land and the various laws of the Republic in that district.^[The State counsel office controlled by the Prime Minister will no longer be able to prevent their drug traffickers from escaping the law this way, especially if DA's want to get re-elected. This guarantees that the Judiciary will do its job unlike the last 56 years where drugs are concerned because they will be completely separate from the state.]
+Each District shall have its own representative of the Judiciary in a District Attorney who shall in good faith, defend and represent the citizens of that district.^[The State counsel office controlled by the Prime Minister will no longer be able to prevent any drug traffickers from escaping the law this way, especially if DA's want to get re-elected. This guarantees that the Judiciary will have some incentive to do their job for relection.]
 
 Every District shall have a uniform court system, which ultimately shall have as highest court the state supreme court.
 
 No District shall have a supreme court but the state alone shall have one supreme court with as many divisions as the National Assembly shall think necessary to make justice more fluid and efficient over time.
 
-An Attorney General nominated by the President with confirmation of 2/3 of the National Assembly shall be the public prosecutor of the state, who shall in good faith, defend the constitution of the land and the various state laws of the Republic.^[This will replace the DPP. The neccessary and proper clause empowers parliament to decide what powers and duties exactly the Attorney General will have.]
+An Attorney General nominated by the President with confirmation of two thirds of the National Assembly shall be the public prosecutor of the state, who shall in good faith, defend and represent the state.^[This will replace the DPP. The neccessary and proper clause empowers parliament to decide what powers and duties exactly the Attorney General will have.]
 
 
 
@@ -78,6 +78,6 @@ Obstructing the accurate carrying out of the government processes enumerated in 
 Section 10
 :::
 
-The powers not delegated to the State by this Constitution, nor prohibited by it to the Districts, are reserved to the Districts respectively, or to the people.^[This paragraph gives police powers to the districts because such power is not attributed to the state government in this constitution. ]
+The powers not delegated to the State by this Constitution, nor prohibited by it to the Districts, are reserved to the Districts respectively, or to the people.^[This paragraph gives police powers to the districts because such power is not attributed to the state government in this constitution, effectively decentralising the police permanently. ]
 
 :::

@@ -5,7 +5,7 @@ project:
     port: 4500
 
 website:
-  title: "Defimedia"
+  title: "LAVENIRMORIS"
   twitter-card: true
   open-graph: true
   page-navigation: true
@@ -28,6 +28,8 @@ website:
         - posts/chapterone.qmd
         - posts/chaptertwo.qmd
         - posts/chapterthree.qmd
+        - posts/chapterfour.qmd
+
     - title: The Second Republic White Paper
       contents:
         - constitution/preamble.qmd
@@ -50,13 +52,14 @@ website:
         href: index.qmd
       - text: 'GP'
         href: 'about.qmd'
+      - text: 'Disclaimer'
+        href: disclaimer.qmd
       - text: 'TCC'
         href: posts.qmd
       - text: 'TSR'
         href: constitution.qmd
-      - text: 'Disclaimer'
-        href: disclaimer.qmd
-
+    right: |
+        Built with Quarto and a lot of ❤️ for 🇲🇺
 format:
   html:
     theme: [lux, style.scss]

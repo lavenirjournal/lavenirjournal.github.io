@@ -23,7 +23,7 @@ The President and all civil Officers of the Republic of Mauritius, shall be remo
 Section 3
 :::
 
-All local level government representatives elected by the people of Mauritius, shall be impeachable in a manner that is ascertained by Law. All local level government representatives may be recalled by a uniform procedure that shall be ascertained by Law.
+All local level government representatives elected by the people of Mauritius, shall be impeachable in a manner that is ascertained by the common district charter.
 
 
 :::{.text-center}
@@ -39,6 +39,6 @@ Judgment in Cases of Impeachment shall not extend further than to removal from O
 Section 5
 :::
 
-A rightfully impeached or expelled representative of the people is denied any form of state paid pension. Plus he may not represent the people again in any election for a period of 10 years, nor enjoy any office of honor, Trust or Profit under Mauritius.
+A rightfully impeached or expelled representative of the people is denied any form of state paid pension. Plus he may not represent the people again in any election for a period of 25 years, nor enjoy any office of honor, Trust or Profit under Mauritius.
 
 :::

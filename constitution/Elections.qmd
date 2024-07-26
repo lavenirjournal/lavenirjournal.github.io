@@ -35,45 +35,45 @@ Voting is never to be done electronically.^[This can only invite mischief in if 
 Counting in polling stations may be aided by using electronically powered physical machines that optically reads ballot papers to quickly determine any election after which they must be confirmed again with human effort to validate the election results.^[This would speed up election results.]
 
 :::{.text-center}
-Section 2
+Section 4
 :::
 
-The times, places and manner of holding elections and the specifics of elections for the President, Members of the National Assembly, and Associate Justices, shall be the same in all districts; as ascertained by law. Taking into consideration when making such regulations that they ensure that elections and their entire process be conducted in a democratic, fair, transparent and equal way which is free from reasonable doubt of mischief.^[This via the Neccessary and Proper clause binds our legislative assembly to create fair and transparent regulations, where elections are concerned. Meaning funding of elections, limits of spending, everything is taken care of here.]
+The times, places and manner of holding elections and the specifics of elections for the President, Members of the National Assembly, and Associate Justices, shall be the same in all districts; as ascertained by law. Taking into consideration when making such regulations that they ensure that elections and their entire process be conducted in a democratic, fair, transparent and equal way which is free from reasonable doubt of mischief.^[This via the Neccessary and Proper clause binds our legislative assembly to create fair and transparent regulations, where elections are concerned. Meaning funding of elections, limits of spending, who is giving money to who, everything is taken care of here.]
 
 :::{.text-center}
-Section 3
+Section 5
 :::
 
-The election of the President shall be done by direct suffrage for a 6 year mandate.
+The election of the President shall be done by direct suffrage for a six year mandate.
 
 The President of Mauritius shall be elected by an absolute majority of votes cast. If such a majority is not obtained on the first round of voting. A second round of voting shall take place with the whole republic voting again fourteen days after the first round. Only the two candidates polling the greatest number of votes in the first round, after withdrawal of any better placed candidates may stand in the second round.^[We'll follow France's election style.]
 
 The matter of death arising in Presidential elections and Presidential incumbents shall be provisioned against by Law.
 
 :::{.text-center}
-Section 4
+Section 6
 :::
 
-The National Assembly shall initially determine the single member constituencies (seats), the party seats to balance representation, and the intemporal method by which they shall be readjusted periodically.
+The National Assembly shall initially determine the multi member constituencies (seats), the party seats to balance representation, and the intemporal method by which they shall be readjusted periodically.
 
 When vacancies happen in the Representation from any District, the Executive Authority thereof shall issue Writs of Election to fill such vacancies as provisioned by law.
 
 Vacancies happening in a branch other than the legislature shall be fulfilled temporarily by the Executive Authority to finish the rest of the term until next elections.
 
 :::{.text-center}
-Section 5
+Section 7
 :::
 
-The National Assembly shall be composed of members chosen by the people of the several Districts elected for a 3 year mandate, in their designated constituencies. Every citizen shall get two votes. One vote to elect a representative in each of the single member constituencies across the land, notably he who receives most votes and another to vote a political party. The second vote use shall be to ensure more proportionality of representation in the house in a manner to be ascertained by Law.^[I like the D'Hondt method of PR. Saint Lagues is fine too.]
+The National Assembly shall be composed of members chosen by the people of the several Districts elected for a three year mandate, in their designated constituencies. Every citizen shall get two votes. One vote to elect a representative in each of the multi member constituencies across the land, notably the ones who receives the most votes and another to vote a political party. The second vote use shall be to ensure more proportionality of representation in the house in a manner to be ascertained by Law.^[I like the D'Hondt method of PR. Saint Lagues is fine too.]
 
 
 :::{.text-center}
-Section 5
+Section 8
 :::
 
-The Supreme Court of Mauritius shall be composed of 2 Associate Justices, chosen by the people elected for a 6 year mandate.^[To make our supreme court reliable to let go of the privy council.]
+The Supreme Court of Mauritius shall be composed of two Associate Justices, chosen by the people elected for a six year mandate.^[To make our supreme court reliable to let go of the privy council.]
 
-The very first batch shall however be chosen by the President with the approval and advice of 2/3 of the National Assembly. After they be chosen by the president they shall be divided randomly into two classes. The Associate Justice of the first Class shall be vacated at the Expiration of the third Year, and that of the second Class at the Expiration of the sixth Year so that one Associate Justice may be chosen by the people every third year.^[Senate trick the US uses.]
+The very first batch shall however be chosen by the President with the approval and advice of two thirds of the National Assembly. After they be chosen by the president they shall be divided randomly into two classes. The Associate Justice of the first Class shall be vacated at the Expiration of the third Year, and that of the second Class at the Expiration of the sixth Year so that one Associate Justice may be chosen by the people every third year.^[Senate trick the US uses.]
 
 The proceedings for the elections of Justices are the same as the President's. 
 

@@ -30,7 +30,7 @@ The right of the people to be secure in their persons, houses, papers, and effec
 Section 4
 :::
 
-No person shall be held to answer for a capital, or otherwise infamous crime, unless on a presentment or indictment of a Grand Jury; nor shall any person be subject for the same offence to be twice put in jeopardy of life or limb; nor shall be compelled in any criminal case to be a witness against himself; nor shall private property be taken for public use, without just compensation.^[This allows you to plead the fifth.]
+No person shall be held to answer for a capital, or otherwise infamous crime, unless on a presentment or indictment of a Grand Jury; nor shall any person be subject for the same offence to be twice put in jeopardy of life or limb; nor shall be compelled in any criminal case to be a witness against himself; nor shall private property be taken for public use, without just compensation.^[This allows you to plead the fifth and will allow people who were coerced into providing self-incrinating confessions obtained through torture, a classic in our lovely country, to get their day in court.]
 
 :::{.text-center}
 Section 5
@@ -54,7 +54,7 @@ Excessive bail shall not be required, nor excessive fines imposed, nor cruel and
 Section 8
 :::
 
-No person shall be convicted or punished in cases where the only proof against him is his own confession.^[ This will automatically release all people, who are currently in jail because of self incrimination without proof. Self incrimination which is frequently obtained through torture.]
+No person shall be convicted or punished in cases where the only proof against him is his own confession.^[ This will allow people who were coerced into providing self-incrinating confessions obtained through torture, a classic in our lovely country, to get their day in court.]
 
 :::{.text-center}
 Section 9
@@ -68,7 +68,7 @@ Any law enforcement officer found guilty of violating the due process of law whe
 Section 10
 :::
 
-The age where a citizen can be deemed old enough to consent to sexual intercourse shall be set at eighteen years.^[It is currently 16. I am a conservative person on this matter.]
+The age where a citizen can be deemed old enough to consent to sexual intercourse shall be set at eighteen years.^[It is currently 16. I am a conservative but liberal person I guess.]
 
 A Romeo and Juliet clause shall be allowed where the difference of the absolute value of the two ages in controversy shall be at most 2.^[Don't mess with kids if you are no longer one.]
 
@@ -82,7 +82,7 @@ The citizens shall pay to have information and unbiased education provided on pu
 Section 12
 :::
 
-The enumeration in this Constitution, of certain rights, shall not be construed to deny or disparage others retained by the people such as but not limited to; the protection of the people against slavery and involuntary servitude, the right to move at will and enjoy freedom of residence, freedom of occupation, freedom of learning and the arts, the right to private property, the right to privacy and any other self evident right.^[Thought of a self evident right that I did not cover? This section covers it informally. Yes, that includes the right of revolution.]
+The enumeration in this Constitution, of certain rights, shall not be construed to deny or disparage others retained by the people such as but not limited to; the protection of the people against slavery and involuntary servitude, the right to move at will and enjoy freedom of residence, freedom of occupation, freedom of learning and the arts, the right to private property, the right to privacy and any other self evident right.^[Thought of a self evident right that I did not cover? This section covers it informally.]
 
 
 

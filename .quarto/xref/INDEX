@@ -82,5 +82,11 @@
   },
   "disclaimer.qmd": {
     "disclaimer.html": "6c0b184e"
+  },
+  "posts/chapterthree.qmd": {
+    "chapterthree.html": "74812529"
+  },
+  "posts/chapterfour.qmd": {
+    "chapterfour.html": "b55e07cb"
   }
 }

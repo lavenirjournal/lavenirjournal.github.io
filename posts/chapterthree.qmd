@@ -1,0 +1,350 @@
+
+---
+title: "Hell on Earth"
+cap-location: bottom
+subtitle : "This paper tells the story of how the Kingdom of Mauritius stopped growing. Of how a King and his closed circle using fake statistics, heavy financial repression and all of the state companies' free cashflow, bankrupting every single one of them in the process, was still unable to compensate for their unfathomable incompetence."
+author: "Yuuki"
+date: "03/12/2022"
+---
+
+## El Chagossian Dólares 
+
+There is a dark and disgusting secret out there in politics and in the commercial world. You already know it, intuitively because you have lived it, time and time again. Politicians do not place you very high on their priority list unless there is a vote out there to win in the near future. The same is true for multinationals. If there is no competition, then there is no need for any multinational to give a flying fuck about your health. Morality without competition does not exist. You are stuck with me grins Mesle every time it gets away with murder. Beta also chuckles when it sells your data. Plenty of such examples across time periods but you know, Europe's degeneracy during absolutism should be a good enough example. This is why, the moment you lose democracy, it's over, the moment you do not matter, you are kind of fucked in the real world. By the standards, I have given you here, democracy does not exist in the world currently. You tend to think, that democracy is in your vote. That is not really true. Democracy is in your market power as a population. Can you prevent the monopoly in any way? Then you are powerless. Can you prevent your state leader from stealing the next elections? Then you do not matter.
+
+In Mauritius, we lost our democracy after the 2019 election was stolen. You can see in the actions that followed, how totalitarian our country became in the years that followed. The boy thinks this country is his. He thinks he is the state because he got away with stealing an election. Because your opinion no longer mattered to the boy. But you know this always happens, after an election in general, anywhere in the world, given enough time. You are kind of like a used condom for the politician then. God, it felt good to use you, but you have outlived your purpose. You are kinda an eyesore now. It is time, I throw you out but I'll see you again as soon as my seat is at stake again. Adiós mi amor. The story of the Chagossians is kind of like that. Nobody truly cares about them but them. Anybody giving a fuck is only in it for the money or the PR. I won't be different. Nobody will be different. The only difference is, that I could still be kind, as long as I was competent because the State of Mauritius could truly help these people then. 
+
+Not me though. The State. You must not live in the fallacious and delusional world of a state leader who loves his people. I am not here to love you or be loved by you. I am here to basically manage a company called the 'State'. That is it. You will probably disagree with me a lot, and hate me for my decisions. That is fine. You will thank me down the line. So expect to hate me, and yet, still vote me out of respect. I think this is important to get right and understand. I have values, where if I see an animal on the street, and I have food with me, I will feed it. Does that mean, I cared for the animal? No, I did not care for the animal. If you care, you go the extra mile. You take it home, you feed it, you look for a new owner or you keep it until it dies. Do not expect me ever to say I care for you, because I never will and I just cannot lie. I have one quality. My brutal honesty. Look if somebody told you they cared for you, like a politician, they lied to you. They cannot go the extra mile, nor should you expect them to. It is impossible for any politician in the real world to care for a random citizen. Communalism is boo hockey. It just is. At best, I can care for my country's future. In the end, though, I can only go the extra mile for people who are part of my everyday life. You will only ever get the values I grew up with. Of that the principal is respect. No matter who you are, I will treat you with respect. And I will be bluntly honest with you. I do not sugarcoat shit. You will see it in this paper.
+
+So, in what I have just discussed with you, therein lies the truth of why our Kingdom is obsessed with the chagos and is bipolar in its treatment of the chagossians and agalegaens. It is because it **IS** bankrupt and has been for a while. Not because of its people. Not because of sovereignty. Not because it cares. Not because it has values. FUCK NO. Its [MONEY](https://www.youtube.com/watch?v=ETxmCCsMoD0). Diego Garcian money. In some sense, it feels an awful lot like destiny to be honest. Because they banked on the US to be their sugar daddy in this case for a few billion dollars and were played by the UK. They must be incredibly salty and bitter about that one. But had they gotten the dollars, they could have easily held on a few more years, and this whole thing would have been a much more complicated ordeal. It seems god itself wants this country to get rid of its dumbducks once and for all. Which is why, on to the plat de resistance, we go. 
+
+## Le Roi Soleil
+
+Our fate is strongly linked to the EU because they were the country that historically had the biggest external demand for our goods and services. So, the story goes like this, following the financial crisis of 2008 our trade with the UK took a big hit and dwindled completely over time. That was the first big blow of external demand that we got from the EU, and the second came because of Greece, where the government there was doing things that the Sun King would eventually do here. Fake national statistics to enter the european union. That triggered a crisis in Europe when the cat got out of the bag because this foolishness put the whole currency union at risk, which slowed all of Europe down. Mauritius at the time, relied a lot on EU/UK trade. This negative shock to the EU, put a dent in the progression of steady external demand bumps we were getting from them every year. Add to that US manufacturing finding alternatives for their textiles needs leading to less external demand as well, and you get what is called [a current account reversal.](https://en.wikipedia.org/wiki/Sudden_stop_(economics)) 
+
+Do you understand what I mean? The EU's external demand peaked in 2012 and from 2013 started receding rather than increasing. That forced us into a recession because of what we call, a current account reversal although in 2013 statistics were embellished because elections were near so as to not show the logical effect of a current account reversal which is a sharp reversal in demand, and that embellishing has not stopped since today. We did not experience a real sudden stop because although demand waned, hot money flows did not recede from the global business sector (We are experiencing one now though since 2020). The only market we have made real progress is South Africa, which is somewhat logical because it is easily predicted by [gravity models of trade when you factor in transport costs that increase with distance](https://en.wikipedia.org/wiki/Gravity_model_of_trade). So, our trade with South Africa has increased today, so much so that we are very much a periphery of the African core today, rather than our past role of being the periphery of Europe which was clearly short-lived and inefficient, because it rested principally on generous trade deals. Let us see using COMTRADE data how **GOODS** external demand panned out over time.
+
+```{python}
+%%capture
+import numpy as np
+import wbgapi as wb
+import pandas as pd
+import opinionated
+import matplotlib.pyplot as plt
+from cycler import cycler
+from opinionated.core import download_googlefont
+from matplotlib.ticker import FuncFormatter
+
+plt.style.use("opinionated_rc") 
+download_googlefont('Atkinson Hyperlegible', add_to_cache=True);
+plt.rc('font', family='Atkinson Hyperlegible')
+
+plt.rc('axes', prop_cycle=(cycler('color', list(['#00308F','#007FFF','#6F00FF','#4C516D'])) *
+                           cycler('linestyle', ['-', '--', ':', '-.'])))
+
+
+def reformat_k(a,b):
+  if a > 1000 or -1000:
+    val = round(a/1000,1)
+    new_tick = '{:.0f}K'.format(val)
+    
+  return new_tick
+
+
+def reformat(a,b):
+  if a > 1000000 or -1000000:
+    val = round(a/1000000,1)
+    new_tick = '${:.0f}M'.format(val)
+    
+  return new_tick
+
+dollar = FuncFormatter(reformat)
+thousand = FuncFormatter(reformat_k)
+
+
+```
+```{python}
+import pandas as pd
+
+data = [[2000, 431,1120,305,8.94,1865], [2008, 709,1460,140,75.5,2384], [2012, 423,1350,236,221,2230],[2015,325,992,264,214,1822],[2019,209,845,202,196,1452],[2023,172,628,175,200,1175]]
+
+df = pd.DataFrame(data, columns=['Year', 'UK (USD)','EU (USD)','US (USD)','SA (USD)','Total (USD)'])
+
+df.plot(x='Year',figsize=(11,5))
+plt.gca().yaxis.set_major_formatter('${x:1.0f}M')
+plt.legend(loc='best',fontsize=14)
+opinionated.set_title_and_suptitle('Goods trade collapse over time','')
+```
+
+<br>
+
+Now, remember though that is only goods trade. There is still services trade which has been okay with tourism but lately has become impossible to measure due to global business being added to services trade rather than leaving them solely in the balance of payments. All in all, while the services trade has been steady, except in the covid period when tourists could not come in, the services trade was in no way ever exploding. That is because their capacity is much more restrictive by design (capacity) and quality (price). Do you want to welcome 2 million tourists? Too bad, we do not even have that amount of seats available per year in chartered flights by Air Mauritius. Nor in hotel capacity. Do you understand how services trade for tourism works? It does not explode. It is steady with some growth here and some contractions here and there but there are zero economies of scale to it. The problem with the services trade is that lately, it is faked because of its inclusion of GBC hot money flows, to mask our problems. But you must face reality as it is. There are foreign currency problems in our country because that artificial GBC hot money flow added to services export is not money we can use.^[Look at this honest [explanation](https://www.centralbank.ie/docs/default-source/publications/economic-letters/vol-2021-no-1-is-ireland-really-the-most-prosperous-country-in-europe.pdf?sfvrsn=25) from the Governor of the Central Bank of Ireland] When you look at the data crudely, things are just getting worse and worse, total net goods trade in particular. Let's look at all of this in the next chart.
+
+```{python}
+
+df = wb.data.DataFrame(['ST.INT.RCPT.CD','NE.EXP.GNFS.KD','BN.GSR.MRCH.CD'],['MUS'],
+time=range(1960, 2024, 1), labels=True,numericTimeKeys=True)
+
+df.set_index('Series', inplace=True)
+
+df = df.T
+
+df.plot(figsize=(11,5))
+plt.gca().yaxis.set_major_formatter(dollar)
+plt.legend(loc='best',fontsize=14)
+opinionated.set_title_and_suptitle('Tourism and Real Goods and Services Export','Tourism earnings prevented us from going into crisis by giving us fresh savings, until 2020.')
+
+```
+
+<br>
+External demand was really dry for the last 10 years and that would be me sugarcoating things. The damn thing had no progression, there is no other way to put it. This chart should also let you know that net goods trade has crossed a critical point where tourism alone cannot sustain it anymore, so the government is taking loans that will hang over your heads for decades to come like in Sri Lanka where you will need to work like a slave to repay them. We do not even know how much the debts of this country really are today, everything that is thrown at you is as fake as these people these days. There is opacity in the real finances of the country. Now to be able to continue with our analysis of what really happened in the last ten years, we need more data, to be able to go on. I will give you a chart that you may need to come back to periodically, as we move along. I will be applying everything that was in Macroeconomic Laws 1 and 2 by basing myself on these statistics.
+
+:::{.column-screen}
+![$$\quad$$](/posts/images/potentialoutput.svg)
+:::
+
+So first things first, the numbers which the government has been giving you every year are the production numbers, the expenditure number is what has really been going on which believe it or not is also complied by the government but they choose to discard it as inacurate data, and the potential output is the maximum capacity of the economy based on a [Hodrick-Prescott Filter](https://en.wikipedia.org/wiki/Hodrick%E2%80%93Prescott_filter). Let us debunk the government propaganda first, before going any further. In 2012, you can see the current account peaks at a deficit of -1.5B dollars. Government claims that from 2013 to 2019 the economy of the Republic of Mauritius has been expanding. Our task is to answer whether that is possible given these indicators. Let us first look at potential output and actual output which here are production estimates. We can see that the output gap widens more and more while inflation is consistently decreasing, bottoming out in 2019 at sub 0\% and close to deflation. That is a problem, a country with a positive output gap has to have inflationary pressures. Monetary policy during that time period was particularly loose. Rates were not raised once, rather only dropped lower from 2014 to 2019, and given we 'presumably' expanded so strongly. Yet again, inflation never came, which again does not make sense. Third problem, goods and services exports were not expanding strongly as we can see from the trade to GDP ratio, most of the expansion came from domestic activities. However, domestic activities are not ever very productive, unless highly aided by new technological breakthroughs. Do you know of anything that our country invented that could explain these numbers, did we invent a new secret technology in the Kingdom of Mauritius, besides the archaic one which is to blatantly lie to your population 24/7? Someone who works at a KFC in Mauritius where output per worker is only around 8K USD is just as productive as someone who works in DC in the USA where output per worker is over 200K USD. Someone who works as a hair cutter in Mauritius is just as productive as a hair cutter in the District of Columbia. The same goes for construction workers, retail workers, hospital workers, and any non-tradable service you want. Do you understand? Unless there was a strong population surge for the total output of the non-tradable sector to expand, the same people would not be more productive over time doing the same non-tradable work. This is why the United-States can rely on non-tradables, India can rely on non-tradables expansion, China can rely on non-tradables. Mauritius cannot, it has to expand its tradable sector. If its output growth is not coming from more trade with the world, it is fake, unless the working population has massively surged. Let's check it out.
+
+```{python}
+
+df2 = wb.data.DataFrame(['SL.TLF.TOTL.IN'],['MUS'],
+time=range(1960, 2024, 1), labels=True,numericTimeKeys=True)
+
+df2.set_index('Country', inplace=True)
+
+df2 = df2.T
+
+df2.plot(figsize=(11,5))
+plt.gca().yaxis.set_major_formatter(reformat_k)
+plt.legend(loc='best',fontsize=14)
+opinionated.set_title_and_suptitle('Labor Force of Mauritius','You got conned dummy, interpret it yourself as an exercise. Remember your solow model.')
+
+```
+
+So why were these numbers surging in Mauritius? Do you want to know why? Because if they faked their exports, international trade is a double entry system, it would be easy to know. So they cannot fake GDP by boosting export numbers. They can misdirect people, using services export which they did with global business hot money flows but even that, it is not a fake number, it is just extreme bad faith. You have to understand that the money did come in and did go somewhere else. Technically, you could call it an export. In good faith though, out of respect for your citizens, you would avoid it and leave it in the BoP. But this is how every country fakes its GDP. Mauritius itself faked its GDP using this production numbers boosting trick in the 1980s when shit got too ugly. Countries make their existing nontradable sectors more productive than they are and that will mess up their trade to GDP ratios. The trade to GDP ratio went below 100\% in the 1980's and recently. That is a mathematical impossibility for a small open economy. It is only possible for open and closed economies with considerable domestic resources. Let's just prove it.
+
+If an economy has to import everything it needs and engages in exports then this economy's total trade is higher than its gross domestic product. ( Mauritius is such an economy ).
+
+
+Suppose an economy has to import everything it needs every year denoted by a list $m_{1},m{_2},m_{3}...m_{n}$ for a total value $M$. Let such an economy then add some value $c$ to every import $m_{1}...m_{n}$ by using it in each sector of the economy and in exports such that total value added $c_{e}=c_{d}$. Let domestic demand and exports be the sum of their respective endowments of imports $m_{n}$ denoted $m_{d}+m_{e}$ which is equal to the total value of imports denoted $M$. Exports are then denoted by $m_{e}=M-m_{d}$. The following inequality thus presents itself.
+
+$$If \; Imports\;+\;Exports > \\
+ Exports + Domestic\;Demand$$
+$$Then\;\;M+M-m_{d}>m_{e}+m_{d}$$
+$$Hence\;\;M+m_{e}+m_{d}-m_{d}>m_{e}+m_{d}$$
+$$Hence\;\;M-m_{d}>0$$
+$$Hence \;\;M>m_{d}$$
+$$Hence\;\;m_{e}+m_{d} >m_{d}$$
+$$Consequently\;\;m_{e}>0$$
+$$Therefore\;\;Trade\; > \; GDP$$
+
+
+Our country has broken this law two times. That is a mathematical proof. Undeniable proof that the statistics are fake. Once in the 1980's and recently from 2013-2024. It is important to note that in reality total value added for exports $c_{e}$ are much higher because they involve tradables. Manufacturing for the world rather than manufacturing for your very small economy. Therefore by making $c_{e}=c_{d}$ and ignoring it, the conclusion should not change. If anything $c_{e}+m_{e}>c_{d}$ always holds. The reverse $c_{d}>c_{e}+m_{e}$ implies a small open economy can ultimately progress without exporting which is just not real. This is what the Kingdom of Mauritius basically claims. That we could have higher and higher real GDP without exporting more and more. That madness is why inflation is so high close to 94\% after just four years. What you are being told by the Kindgom of Mauritius is not real. In fact this relationship is real telling of economies who are faking their GDP's because they would have to inflate $c_{d}$. 
+
+On the flipside though it is good to note that open and closed economies often does have consequential **domestic resources** which makes $c_{d}>c_{e}+M$ always hold and by a long shot because it does not import/trade as much. Plenty of countries use that trick though, not just Mauritius but that is another can of worms entirely which is not mine to care about. There are plenty of other flaws, in the expansion story, for example, our country has a thriving local industry for food, coca-cola, beers, toiletries, detergents, soaps, milk, sauces. You know, we do plenty of stuff locally via licenses. Why is real manufacturing flat lining then, if demand is so strong? Some of that 'output expansion' must come out of these products we manufacture locally. Li p cachiet mo croir non ? Wa li p cachiet. Li pou vini taler la. There are holes everywhere, depending on how well you understand economics. So, let us transition to what really happened. Then we will talk about our bleak future, unless you finally wake up at the end of this paper.
+
+## La casa de papel 
+
+So, from 2013 to 2017 the current account only contracted, tell me macroeconomically what should be the effect of this? Real savings should increase. Okay, now I did not cover this but this is how it happens in real life, decisions are actually made each quarter in all economies around the world, and the fact that real savings increased from 2013 to 2017 is but a summary of all that. You must be able to know the deeper parts too, not just what goes on at the surface level. At the deeper level, what happened in Mauritius is that in the first quarter of the year 2013, inventories started piling up a lot, which made businesses in general change their decisions from importing more to importing less, which is a process that repeated itself, until 2017. Businesses started importing less because they had too much inventory already, which caused an excess supply of goods and services on the local market with dwindling demand. What does that do? It pushes prices down. What does that mean? Less tax revenue is it not? If you are importing less and less every year  So, what does it mean for Government budgets? From 2014, the real numbers were always less than the ones that were thrown at you every budget. Do you ever wonder why that dam in Riviere Des Anguilles never got built? There never ever existed a real commitment for such a thing. It was something designed to fool you as were all budget speeches since 2014. Smart cities, safe cities, 'elephant blanc projects'. They just lay down the groundwork in their budgets basically, to steal LEGALLY. They think of clever ways to fool you and spend your money. Clever ways of inventing an excuse to spend your money which will cleverly find its way back to the politician's doorsteps as if by magic.
+
+For a dumbduck must steal, because he is nothing without the people's money. The dumbduck must live off the noose around your neck. So how did your King, make that noose tighter back then exactly? Do you know how? Do you know what actually happened to your pension fund? The NPF? Your pension fund was the liquidity they needed to supplement their budgets to cover that lack of tax money because output was no longer increasing. Indeed, you financed your own suffering unbeknonwst to you. Now is this a crime? Not really, plenty of countries do this rather than raising taxes. But they do it with finesse, so they do not ruin their pension holders' future. If they ruined the pension holder's future then yes, that would be a serious crime. That crime happened here in Mauritius. Your future was destroyed using financial repression.^[Read [this](https://www.elibrary.imf.org/downloadpdf/journals/022/0048/002/article-A008-en.pdf) to understand] The NPF was willingly destroyed by the government, who used it to fund their cheaper lower interest debt that they issued themselves at rates they commanded and forced the NPF and Commercial Banks to buy because they could no longer afford to pay regular interest rates because the economy was no longer progressing. That cheaper lower interest rate, made the NPF go into more and more and more deficit over time not allowing its assets to expand fast enough, making its liabilities become a lot larger than its assets because it  was not getting any return. Like the country today, the fund eventually went bust, which is why it was abolished. 
+
+Examples of financial repression can be found [here](https://www.bom.mu/sites/default/files/public_notice_-_results_15_year_gom_bond_13_jan_2021.pdf), [here](https://www.bom.mu/sites/default/files/public_notice_-_results_10_year_09_dec_2020.pdf), [here](https://www.bom.mu/sites/default/files/public_notice_-_results_5_year_nb_02_june_2020.pdf). Those are the government's examples which are public but their cronies received the same treatment. They got your money to play with for free. Now, it does seem that things are much worse these days though. I thought only the MIC was reserved for cronies as evidenced [here](https://www.pluriconseil.com/it-is-high-time-to-revamp-the-mauritius-investment/). To my dismay, I read in a [newspaper recently](https://sundaytimesmauritius.com/npf-nsf-les-rs-197-milliards-dinvestissements-sont-ils-a-risque/) that your NPF money is not only being used by the government to fund its cheap debt, it is also being used to help the government's cronies. Your King is a real piece of work is he not? He is using your pension money as if it were his, ruining your future and destroying your retirement in the process. He is allowing people to use your NPF money without paying any interest or without demanding any collateral which is the gold standard in [REPO](https://www.icmagroup.org/market-practice-and-regulatory-policy/repo-and-collateral-markets/icma-ercc-publications/frequently-asked-questions-on-repo/1-what-is-a-repo/) transactions involving financial institutions, so as to insure against this silly behavior. Then again he probably does not even know what a REPO transaction is, a King after all needs not know anything, plus we are living in the Kingdom of Mauritius. So who gives a fuck about your hard-earned money and your pension. Your life's sweat is of no importance to your King it seems. Be grateful that your King is even giving you anything I guess. That would now be the thousandth proof that you live in a banana republic. That you have a King. Now now, calm down, what are you getting all worked up for, all of this, is only the beginning.
+
+Our dumbducks back then were scrambling to find a solution to their biggest problem yet, a smart duck, because a smart duck was in town, and he was gaining more and more market share by providing superior services to the people of the Kingdom of Mauritius. That put the financial position of our dumbducks at risk given Mauritius was contracting and they were thus losing a lot of market share while being hugely over indebted already. They needed to appeal to their King as quickly as they could to destroy their competitor. The King responded in kind of course, but the bankruptcy of the second biggest conglomerate in the country was a big blow to the Kingdom. It ruined a lot of people's life just for the sake of our dumbducks, so they may continue to exploit their Kingdom without competition. Then again when you ruin a whole country's pension fund, a few people's lives are just chump change. You see, the economy contracted yet again because of the destruction of this conglomerate which is only normal given balance sheets got messed up and borrowing receded across the board. The only company that was borrowing abundantly and expanding was killed after all. That forced our benevolent King's hand yet again when he was shown the economy's real performance. He had to act as a King so that the elites of his kingdom would continue to support his kingship. So he did by tightening the noose around your neck yet again and of course by lying to you by giving you production numbers rather than these numbers. Gotta give props to Statistics Mauritius though, for doing their work honestly at the time. The country owes you big time for your courage. It is okay that you gave in to the new fake statistics. The country understands how dangerous it is today to go against the government's narrative.
+
+<br>
+
+:::{.column-screen}
+![$$\quad$$](/posts/images/gdpgrowth.svg)
+:::
+<br>
+<br>
+
+:::{.column-screen}
+![$$Y =K^{0.53}AL^{0.47} \quad \bar{\alpha}=0.53 \quad average(1960-21)$$](/posts/images/growthmauritius.svg)
+:::
+
+So, our King forced the hands of state companies now, engaging in even more financial repression, to start investing in low rate treasury bills so he may again cover the difference between what is in the budgets that they showed the population and what is the true financial position of the state in reality. You see, [the primary balance](https://obamawhitehouse.archives.gov/blog/2011/02/18/primer-primary-balance) of the country deteriorated long before covid 19 although you were not shown that picture. Deficits were larger. That is the truth, and in the end, things got so out of hand, that our King's incompetence forced him to use more and more of the people's money in all state companies to compensate for his own incompetence as well as his elite circle's which involved the private sector. And so, in 2019, they forced the hand of companies who were refusing to give them the people's tax money so they may have fun with it. They legislated so that government nonfinancial corporations had to give all of their 'free cash' to the government. Treasury certificates they called it. There is a fun story about this involving betamax which was paid with this [mechanic](https://www.bom.mu/sites/default/files/public_notice_-_results_treasury_certificates_25_june_2021.pdf). Also, these state companies are completely bankrupt because the state is taking away all of their [free cash flow](https://www.bom.mu/sites/default/files/results_-_treasury_certificates_27_jun_2024.pdf). But then they have the arrogance of coming up with shit like this.
+
+::: {.callout-note}
+## Zean Tirol par vavate zozo
+::: {.text-center}
+L'economie est au service du bien commun
+:::
+:::
+
+::: {.callout-important}
+## La Realiter
+::: {.text-center}
+L'economie est au service de notre roi soleil et de ses petit copains et copines.
+:::
+:::
+
+BUT WAIT, it gets worse than this, much much worse than this because you see in 2019, becoming addicted to power, our King voluntarily pushed our country into bankruptcy just to fool your parents and grand-parents. Just so he may disrespect them and show to the world, how little respect he has for you all. His action to lift the pension permanently altered your destiny by being the final nail in your coffin. That is what made the liabilities of our country vastly exceed its assets in that year. The year 2019 was the year our benevolent King, not only stole elections like a true King would, but he also dared to touch the most important thing in a society that is the property of all its people, like a true King would. He touched your wealth by printing 18 billion rupees, to be able to debase your own wealth to pay for that increase in pensions, effectively giving you nothing while making it easier for the private sector to also pay for your new minimum wages. You effectively lost all the real value you gained for a few months after the 18 billion rupees went into circulation, into the goods and services market. In some twisted sense, covid must have been seen as a godsend for our King and his allies given that it allowed him and his close allies to again like in the 1980s with the oil shock, pass the buck on something else other than themselves. So, your King with his zeal to impoverish you, did what any King would do, he took advantage of the situation fully with emergency procurements and money printing. Unfortunately, the damage was already done. You see, the government ran out of money very quickly in 2020, and you probably did not know that because that was never reported. And so on a fateful day in [April 2020](https://www.bom.mu/sites/default/files/cbs_-_sep_19_-_sep_20.pdf), an auction about which there is no information and in which no primary dealers participated happened. 15 billion rupees was gifted to government scratch that - TO OUR KING - to be able to benevolently continue to cover your pensions. Such a graceful and benevolent King, that the heavens have blessed us with. This is already 18+15 billion. 
+
+That is a fuckload amount of money to put in circulation. Do you remember the identity of the positive output gap I gave you when $\dot{y}>\dot{y}^{*}$. That is happening here on steroids because our max savings are constrained to be reduced by two billion dollars because of the lack of tourists back in 2020. You can already see, that is a bad combination of things, inflation has to go up a lot now. It did, but at the same time real output just kind of collapsed in 2020 and with it the King's treasury. Our King was now in dire trouble. The NPF was officially bust, because they could not repay both the government's own debt principals and at the same time cover the liabilities that the government had committed itself to in terms of help i.e wages assistance, pensions etc.. The money was nowhere to be found, they had to act quickly and decisively and so to the money printing factory, our King went again and ordered a fresh supply of 60 billion rupees to be credited to his Majesty's treasury and pre-ordered 80 billion as his personal slush fund which he called the MIC. Yet again another act of disrespect. Our King tends to do that a lot, disrespect the little people, the elderly people, the uneducated people. Seeing the zeros roll in, everybody in the Royal Court let out a royal gasp of relief and went about their usual business of stealing, until they noticed that the contraction was larger than anticipated. Tourism was a bigger part of the economy than anticipated, so they still had to cover some grounds on financing.
+
+Again the disrespect rolled in, it is almost a disease with these people, rather than be upfront about what was happening, an income tax became a so-called new pension fund tax to replace the NPF. Not to an educated person though, the educated knew the NPF was bust when that happened. This would be the millionth evidence of how much your Majesty looks down on the elderly and the uneducated of his Kingdom. That was unfortunately not enough though, because the state was not generating enough real savings, and seriously risked going into hyperinflation if rather than say increase savings, the state would have poured even more freshly printed rupee notes into the goods and services market. So our crown did what they needed to save their necks. Had inflation snowballed, it would have been impossible to hide. For example, even before I wrote this, everybody knows the Inflation numbers are fake *today*. Now imagine, if everybody had known that as early as the *second half of 2020*. That would have opened the Kingdom to unnecessary risks. Now, that was a very unpopular policy though, because taxes increase savings, and reduces real output. So yet again, in 2021 we contracted albeit very minimally of course because we were already knee-deep into a hole but we did.
+
+## Our Destiny
+
+Because of all this another problem was emerging now because the financial situation of most state-owned companies were completely in the red because their free cash flow was with the government to help them 'bouche trou a little everywhere to make the budget not fall apart'. So their pension/retirement schemes were in jeopardy now. Everything was in serious jeopardy. So, the Kingdom needed to find new ways to sustain itself, to be able to live another day. It did that by bleeding you of the little wealth that you had left. And so began operation 'met la population touni pou vive lor zot lasuer'. First very early on, by hiking gas prices and petrol prices to capitalise on higher oil prices and keeping them very high till today, to rip off the population to its maximum but also by adding all kinds of invented taxes, like a covid vaccine tax, an oil tanker tax, a food subsidy tax, and on some occasions our King was so smart that he taxed the tax with VAT because any excuse was a good excuse to rip people off their hard earned money. So your King could continue to sip wine comfortably in his Castle. 
+
+What your King did is an action more formally called pushing a supply side indirect tax on the shoulders of your citizens. Such a hidden tax is designed by the Kingdom to take money from you without protest by increasing the costs of goods and services that the state itself provides to you to make up for the fact that it has taken all the money from state-owned companies and that they are all in the red. There are way too many examples of these things for me to list them all to you, they go from post office charges to port charges, to freight charges, the cost of electricity, the cost of transport, the cost of rent, the cost of bus fares, the cost of air travel, the cost of medicines, the cost of processing fees, the cost of administration fees, the cost of license fees, the cost of literally anything that you can think of that is state-owned, whereby a production cost increase was passed to you the general population to bear its burden because that is why you exist is it not? Do you not exist to alleviate your King's, aches and pains as well as his private circle's aches and pains? Do you not love your King as his royal subject? I hear the guiness book of worlds records has been seriously considering awarding our King the prize of the biggest incompetent being on Earth for being the only King who brought so many state-owned companies to bankruptcy. It is after all a world record. That Airport Holding thing,  was only taken private for it to be opaque to hide multiple bankrupcies by the way. Clever this King of ours.
+
+So, how does it feel to know your king did not replace radars in your Kingdom because he did not give a fuck about your safety given he controls all the drugs that come into the country and wanted the drugs to flow in as much as possible but most importantly as easily as possible. How does it feel to know that your King does not give a single fuck about you given he never replaced a depreciated boat that ended up killing a citizen of this country because of his incredible incompetence? How does it feel to know that your King could not care less about the lack of books, electricity and bus passes in schools because he likes you stupid and prefers sipping wine? How does it feel to know your King has done the unspeakable to one of his own? I know what you must think. Only a King can do it. Only a King has that right. That you are right about. So, is there more dirt you might ask? Of course, there is more dirt, we are talking about our King here, the best of the best. How does it feel to know, he used your overtime money and gave it to his cronies so they may survive while you starve and the rupee loses all its value? How does it feel to know that all the private debts of his cronies that he canceled in his budget were actually the overtime pay that was due to you and that you are being denied? How does it feel to know you are nothing to your King but a means to an end (a vote) given all the rupee he has given has lost most of its value? Do you realise that the rupee has now lost 100\% of its value over the last four years? Do you realise that means your overtime has lost practically 50\% of its face value? Do you think your King will compensate you adequately in PRB salary adjustments? Do you think your King will adjust your overtime adequately it owes you, if and when he pays you? Fuck no, that is why these numbers are faked dummy, because your King decides who gets what. It does not matter what number inflation is really at, 100\%, 200\%, 10000\%. He has decided you will get a few cents on every rupee he owes you in real terms for your hard work because you are a slave and you must work like one and keep your mouth shut. We must be grateful and keep our mouths shut. 
+
+Let's talk about our central bank now. Just like our dumbducks in the private sector keeps a collection of companies where they are involved in everything and good at nothing, our dumbducks in the public sector have been keeping a collection of state owned companies that are bankrupt. The biggest of which we can add to the list is the King's personal money factory itself, which we call the King's Bank in the Kingdom. The Kings Bank has been the centerpiece in the downfall of our Kingdom. It has permitted our King to print money every time he could no longer afford to sip wine comfortably in his castle while pushing all his problems on the rest of the population while the rest of the King's royal court watched in jubilation. The insolvency story of our King's Bank begins shortly after he ordered them to print around 180 billion rupees which was around 50\% of real GDP back in 2021. Most people tend to not understand this point, so we should take a moment to understand what it means for a central bank to be insolvent^[Being insolvent means, not having enough assets to cover all your liabilities].
+
+So here is a very simple example of a Central Bank. It has Non Domestic Assets (NDA) valued at 30 billion rupees, Domestic Assets (DA) valued at 1 billion rupees to cover its liabilities, being Currency that is coins and bank notes valued at 4 billion rupees, Bank reserves that is commercial bank reserves held by law at the central bank and policy securities that the Central uses as instruments to do monetary policy. To that the central bank like any financial institution is one that can make profits and was started at the beginning as all business with an amount of capital and keeps a part of its past profits as reserves while transferring the rest to the state.
+
+| Assets | (Billions) | Liabilities       | (Billions) |
+|--------|--------------|-------------------|--------------|
+| NDA    |      30      | Currency          |       4      |
+| DA     |       1      | Bank Reserves     |      10      |
+|        |              | Policy Securities |       9      |
+|   Assets   | (Billions)    |  Equity    | (Billions) |
+|        |              | Capital           |       2      |
+|        |              | Reserves          |       6      |
+| Total  | 31           | Total             |      31      |
+: {.secondary .responsive .hover}
+
+<br>
+
+
+What if the central bank wants to "make" a business cycle? What does it do? It creates money and buys FX from commercial banks. This increases bank reserves so they can lend more. This is called an Open Market Operation. It can sell FX too. It has the reverse effect. Notice the increase in NDA from the central bank technically buying forex from commercial banks and giving them 3 billion additional rupees for it that they can now lend to businesses and consumers.
+
+<br>
+
+| Assets | (Billions) | Liabilities       | (Billions) |
+|--------|--------------|-------------------|--------------|
+| NDA    |      33      | Currency          |       4      |
+| DA     |       1      | Bank Reserves     |      13      |
+|        |              | Policy Securities |       9      |
+|  Assets   | (Billions)    |  Equity    | (Billions) |
+|        |              | Capital           |       2      |
+|        |              | Reserves          |       6      |
+| Total  | 34           | Total             |      34      |
+: {.secondary .responsive .hover}
+
+<br>
+
+If it thinks there is too much liquidity it can issue securities to take the reserves back for a rate of return on that money. Suppose the central bank issues a security for a return $r$. This is also an Open market operation. This operation of increasing securities by 3 billion and reducing reserves by 3 billion again is called a sterilisation intervention because it cancels the previous buy of foreign currency's effect on the banking system by removing the previous 3 billion rupees liquidity that the central bank introduced into the system so as to not affect money demand or the interest rate.
+
+<br>
+
+| Assets | (Billions) | Liabilities       | (Billions) |
+|--------|--------------|-------------------|--------------|
+| NDA    |      33      | Currency          |       4      |
+| DA     |       1      | Bank Reserves     |      10      |
+|        |              | Policy Securities |       12      |
+|  Assets   | (Billions)    |  Equity    | (Billions) |
+|        |              | Capital           |       2      |
+|        |              | Reserves          |       6      |
+| Total  | 34           | Total             |      34      |
+: {.secondary .responsive .hover}
+
+<br>
+
+Now let us do an example where our King comes and orders an amount of $x$ billion rupees to be handed out periodically over the last four years. You were lied to a lot here again because your King just does not respect you. You were told that 2 billion dollars of NDA were sold. That was not the case. None of what you were told was true. What happened was accounting tricks which if they were to come back to bite us in the ass would put a lot of people in prison for using these tricks. [SVB used this trick and was fine until they were not](https://am.jpmorgan.com/content/dam/jpm-am-aem/global/en/insights/eye-on-the-market/silicon-valley-bank-failure-amv.pdf). One fact, I must share with you is that your King plays hard and quite honestly a good game when he uses his strengths that is lying. Using fake statistics and using fake valuations. Your King is a master manipulator and a narcissist of epic proportions. Did you know, that not all the foreign assets of the Kingdom of Mauritius are in dollars? Revaluating them periodically can thus be a huge pain in the ass because of FX movements. Somehow, though our Kingdom knew the exact numbers to devaluate our rupee to so that 'the reserves' would shoot up the exact amount that they needed. Pssst... it did not. They just re-evaluated it as much as they needed to. Let me show you how easy it is to do it. We go from setting up the groundwork from this. Over evaluate the assets with some depreciation as misdirection to allow a new arbitrary number and a plus to also deleverage from debt. In fact, any excessive overvaluation of our NDA (NFA) as was done in [June 2024](https://www.bom.mu/sites/default/files/cbs_-_june_23_-_june_24.pdf) should have you be very worried because it is the first step that precedes any order that our King places at his personal money factory. It seems that our King might proceed with his usual disrespect, by giving you printed money yet again to try to fool us the slaves of the Kingdom of Mauritius ahead of elections. **Do not be fucking fooled now, worthless is the money you will receive. Inflation alone will it beget you, rather than put food on your table, it will get the food off your table**
+
+<br>
+
+| Assets | (Billions) | Liabilities       | (Billions) |
+|--------|--------------|-------------------|--------------|
+| NDA    |      83      | Currency          |       4      |
+| DA     |       1      | Bank Reserves     |      10      |
+|        |              | Policy Securities |       12      |
+|  Assets   | (Billions)    |  Equity    | (Billions) |
+|        |              | Capital           |       2      |
+|        |              | Reserves          |      56      |
+| Total  | 84          | Total             |      84      |
+: {.secondary .responsive .hover}
+
+<br>
+
+To then give the reserves to government. It is very possible this happened again when they closed their account to declare the revaluations as profits in June 2024, to then transfer a handsome amount of $x$ billion of fresh rupees, so they can spend on fooling you for those PRB and Overtime adjustments/payments. All you will get is a lot of inflation and a whole lot of nothing when you go buy your groceries.
+
+<br>
+
+| Assets | (Billions) | Liabilities       | (Billions) |
+|--------|--------------|-------------------|--------------|
+| NDA    |      83      | Currency          |       4      |
+|        |              | Government |       56      |
+| DA     |       1      | Bank Reserves     |      10      |
+|        |              | Policy Securities |       12      |
+|  Assets   | (Billions)    |  Equity    | (Billions) |
+|        |              | Capital           |       2      |
+|        |              | Reserves           |       *      |
+| Total  | 84          | Total             |      84      |
+: {.secondary .responsive .hover}
+
+<br>
+
+I mean it is a little more complicated than that, but as I told you [a King needs not know anything](https://www.bom.mu/sites/default/files/june_2022.pdf). The 'Casse tete' of cooking shit up to make this look normal is not our King's problem, it is the audit team's :D. Now our Kingdom was already in a dire position in 2014, with zero progress, and zero future because of corruption, so our King divided his bank's assets strategically to earn the best return for himself as early as early as [2015](https://www.bom.mu/sites/default/files/assnov15.pdf) from [2014](https://www.bom.mu/sites/default/files/assapr14.pdf). Unfortunately, that made him become quite illiquid because with liquidity came low returns and given that low returns were bad for our Kingdom, our King's bank delegates avoided them. So here is how it goes, you can divide your NDA into two categories, an Available For Sale (AFS) book used for short-term securities or what you would call cash or cash equivalents in an accounting class and a Hold To Maturity (HTM) book of which [longer duration securities with longer maturity profiles that are more exposed to interest rate risks are a part of](https://www.pimco.com/gbl/en/resources/education/understanding-duration). So, after gifting our government with a considerable amount of money, our example central bank reached the point where suffering a loss, almost any loss woud make its equity negative. So we on to the next financial year.
+
+<br>
+
+
+| Assets | (Billions) | Liabilities       | (Billions) |
+|--------|--------------|-------------------|--------------|
+| NDA    |              | Currency          |       4      |
+| HTM    |      60      |           |       0      |
+| AFS    |      23      |           |       0      |
+|        |              | Government |       40      |
+| DA     |       1      | Bank Reserves     |      10      |
+|        |              | Policy Securities |       12      |
+|  Assets   | (Billions)    |  Equity    | (Billions) |
+|        |              | Capital           |       2      |
+|        |              | Loss          |      (3)      |
+| Total  | 84          | Total             |      84      |
+: {.secondary .responsive .hover}
+
+<br>
+
+When you look at it like that everything seems completely fine, sure, our central bank now has negative equity in its next financial year and is thus bankrupt but a central has the monopoly of money, it cannot go bankrupt, it can just print itself as much capital as needed, which is what it did. So what will generally happen by the next financial is a good cooking session to recalibrate everything.
+
+<br>
+
+
+| Assets | (Billions) | Liabilities       | (Billions) |
+|--------|--------------|-------------------|--------------|
+| NDA    |              | Currency          |       4      |
+| HTM    |      60      |           |       0      |
+| AFS    |      23      |           |       0      |
+|        |              | Government  |       10      |
+| DA     |       1      | Bank Reserves     |      10      |
+|        |              | Policy Securities |       12      |
+|        |              | Other Liabilities |       46      |
+|  Assets   | (Billions)    |  Equity    | (Billions) |
+|        |              | Capital           |       2      |
+|        |              | Reserves          |      0      |
+| Total  | 84          | Total             |      84      |
+: {.secondary .responsive .hover}
+
+<br>
+
+That's it, Ni vu ni connu, everything is fine, or is it? Let us go back for one second. While our assets side and our liabilities side technically match. If we [mark-them-to-market](https://en.wikipedia.org/wiki/Mark-to-market_accounting) would its value increase or decrease? Are there unrealized profits or unrealized losses awaiting in the near future? There are vast unrealised losses in the hold to maturity book of our Kingdom. Not just because we overvalued these assets. More so because these assets are of a bigger duration profile and are thus very sensitive to changes in interest rates. Small changes in interest rates can cause big swings in losses. We got the biggest interest rate swing in practically the last 20 years in the last two years considering interest rates jumped from 0\% to 5.5\% in the United States. That makes for a lot of unrealised losses. Again, that is why [SVB was also caught with its pants down](https://sevenpillarsinstitute.org/the-failure-of-silicon-valley-bank/). So let me be as clear as can be. The lying, it is everywhere in this Kingdom you live in. In planting drugs, in fake allegations, in fake reasonable suspicion arrests, in fake statistics, in fake everything, and that includes the fake position of our central bank and of our Kingdom's Net Foreign Assets position. Our Net Foreign Assets position is shrinking obviously. Because we do not have a lot of these so-called assets if we mark them to market. We are extremely overvaluing them while very likely undervaluating our liabilities to non-residents. Our Net Foreign Assets position has only ever been in this place once before in the 1980's. It is very possible it's negative today, like in the 1980's, although I hope it is not. That is why we have foreign currency problems. Unfortunately, macroeconomics is deterministic and the cause of the foreign currency problems is the same as the one in the 1980's, a dramatic drop in our NFA if we were to mark them to market. Meaning there are a lot of unrealised losses, that our King's bank is sitting on. Just so you get a visual idea, I'll show you the transition in the 1980's where we got saved by taiwan and hong-kong manufacturing coming in for textiles. There is nothing this time. We are on our own. No one is coming to save us from our incompetence. 
+
+![$$\quad$$](/posts/images/savingsmau.svg)
+
+So, is that it? Is the dirt finally over? I wish it was, but you have to realise that when a country goes bust, there is only one way to get out of that problem, it is to have productivity. We have not had that for a while now. We do not even have the adequate labor force today. We are not progressing, do not fool yourself. I just showed you that number earlier. What we have been doing is solve problems temporarily but it always snowballs into another problem. Take the Foreign currency problem, there is a very hardcore financial repression established in our Kingdom today, because if you go to change your rupees into dollars because inflation has been so high for the past four years, that is it. Government crumbles.  We cannot have that, so you have to force a dictatorship where you have to even go as far as intimidate people, to discourage them from doing what is best for them. They are not allowed, they are slaves, and that is to be their destiny, that is final. Our King has deciced. Only his cronies gets access to this country's foreign currency to protect their wealth. There are other problems, like the money that the central bank printed. It printed a lot of it. But in 2022 when US rates increased, it had to follow it, and raise rates because not following it would cause capital flight, which happened nevertheless, but more would have happened. The problem is it has printed way too much money. You do not realise it, but the central banks prints a lot of money these days to just do monetary policy because it has negative equity. It was never properly recapitalised because government itself is bust and does not have the capital. So to be able to raise interest rates, you have to use demand and supply mechanics. You have to decrease the amount of money in the banking system, but guess what? their stupidity was too costly. Just for [June 2023](https://www.bom.mu/sites/default/files/pdf/Research_and_Publications/Monthly_Statistical_Bulletin/msb_july_2023.pdf), the cost for only the excess printed money, was as follows
+
+```{python}
+#| code-fold: show
+
+seven_day_cost = (0.045 *363510)/12
+overnight_deposits =  (0.035*104095)/12
+
+total_interest_excess_money = seven_day_cost + overnight_deposits
+
+print(total_interest_excess_money,'additional million rupees to print per month i.e 1.666 Billion Rupees')
+```
+
+Bear in mind, that does not include all the other already existing monetary policy instruments. They have to print money for that too to pay their interest or principals if they do not [reroll](https://docs.oracle.com/cd/E80148_01/html/LS/LS08_Rollovr.htm) them. In the end, they could not handle it, the amount of interest payments was snowballing because interest compounds and is an exponential thing that can quickly get out of control. They would have had to sell dollars to remove it from circulation, dollars we do not have. So they just stopped completely. [Fuck monetary policy.](https://www.bom.mu/sites/default/files/results_-_7d_bom_bills_19_jul_24.pdf) Do you understand, the hard and cold fact is that the destiny of the rupee is to depreciate in the short run more and more and more because not only are we not productive, we have created a complete shit show with our national currency. Everybody's property. We have taken a lot of foreign debt because the bank's Hold to Maturity book is untouchable because of its unrealised losses that one would shudder to even look at. We will need to buy foreign currency at some point in the future to pay those loans back and to do that we will devaluate the rupee through our central bank buying a lot of dollars to pay those loans back. That is not everything, the penultimate disrespect is that, whilst the key rate is being kept at 4.50\% so that banks can rip you off, on your variable interest rate loans, the Kingdom of Mauritius has already loosened monetary policy since July 2023. It has stopped issuing 7-day t-bills at 4.50\% because it cannot afford to pay the interest. It's too much for your Kingdom, given it is already bankrupt. But it's okay to let banks eat away at your salary and keep the key rate at 4.50\% because it is our destiny buddy. All of this is our destiny. People wonder why young and talented people are leaving this country. It is because they know, and they have acknowledged reality as it is and left because there was no future here. They knew what their fate was. We are all the ultimate suckers in all of this because ironically in the biggest twist of fate, our Kingdom today is the one running a Ponzi scheme. It is removing money from one place to pay someone else whilst not paying someone else. Guess who is not getting paid. It is us, the peasants, the ultimate suckers of the Kingdom of Mauritius because such is our fate. We must be happy to have such a kind and good king do we not?
+
+What will you do? Will you accept the fate your parents accepted for 56 years? This arrogance and this touper does not come around in a few months. It has always been this horrible. No one pointed it out, that is all. This is the point where I ask you the famous existential crisis question. Why the fuck do you exist? Do you exist to be a slave to the Kingdom of Mauritius? I have broken all the indoctrination now. I cannot do anything more for you. **IT IS TIME TO CHOOSE A SIDE**. I have always thought that Prince Zuko's journey was one of the most inspiring journeys that has ever been written. Prince Zuko went from being an indoctrinated and brainwashed kid to a young adult who can think and act on his own. May Prince Zuko guide you [here](https://www.youtube.com/watch?v=tAAjA87viD8&t) and [here](https://www.youtube.com/watch?v=oCfbViEABg4).
+
+:::{.text-center}
+Time to stand up and write your own destiny or be a slave that gets bullied for the rest of your life like your parents did for 56 years and forever thus hold your peace.
+:::

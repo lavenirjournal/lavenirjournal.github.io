@@ -1,0 +1,1346 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="720pt" height="432pt" viewBox="0 0 720 432" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2024-07-20T19:25:56.552316</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.7.5, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 432 
+L 720 432 
+L 720 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 61.82 202.87 
+L 709.2 202.87 
+L 709.2 32.4 
+L 61.82 32.4 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <path d="M 152.551288 202.87 
+L 152.551288 32.4 
+" clip-path="url(#p74aa636e38)" style="fill: none; stroke-dasharray: 4.81,2.08; stroke-dashoffset: 0; stroke: #e5e5e5; stroke-width: 1.3"/>
+     </g>
+     <g id="line2d_2"/>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_3">
+      <path d="M 275.161136 202.87 
+L 275.161136 32.4 
+" clip-path="url(#p74aa636e38)" style="fill: none; stroke-dasharray: 4.81,2.08; stroke-dashoffset: 0; stroke: #e5e5e5; stroke-width: 1.3"/>
+     </g>
+     <g id="line2d_4"/>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_5">
+      <path d="M 397.770985 202.87 
+L 397.770985 32.4 
+" clip-path="url(#p74aa636e38)" style="fill: none; stroke-dasharray: 4.81,2.08; stroke-dashoffset: 0; stroke: #e5e5e5; stroke-width: 1.3"/>
+     </g>
+     <g id="line2d_6"/>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_7">
+      <path d="M 520.380833 202.87 
+L 520.380833 32.4 
+" clip-path="url(#p74aa636e38)" style="fill: none; stroke-dasharray: 4.81,2.08; stroke-dashoffset: 0; stroke: #e5e5e5; stroke-width: 1.3"/>
+     </g>
+     <g id="line2d_8"/>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_9">
+      <path d="M 642.990682 202.87 
+L 642.990682 32.4 
+" clip-path="url(#p74aa636e38)" style="fill: none; stroke-dasharray: 4.81,2.08; stroke-dashoffset: 0; stroke: #e5e5e5; stroke-width: 1.3"/>
+     </g>
+     <g id="line2d_10"/>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_11">
+      <path d="M 61.82 192.451308 
+L 709.2 192.451308 
+" clip-path="url(#p74aa636e38)" style="fill: none; stroke-dasharray: 4.81,2.08; stroke-dashoffset: 0; stroke: #e5e5e5; stroke-width: 1.3"/>
+     </g>
+     <g id="line2d_12"/>
+     <g id="text_1">
+      <!-- 0B -->
+      <g transform="translate(45.649688 195.786464) scale(0.1 -0.1)">
+       <defs>
+        <path id="AtkinsonHyperlegible-Regular-30" d="M 2074 -77 
+Q 1248 -77 816 496 
+Q 384 1069 384 2144 
+Q 384 3213 816 3782 
+Q 1248 4352 2074 4352 
+Q 2899 4352 3331 3782 
+Q 3763 3213 3763 2144 
+Q 3763 1069 3331 496 
+Q 2899 -77 2074 -77 
+z
+M 3072 1216 
+Q 3181 1600 3181 2144 
+Q 3181 2982 2909 3430 
+Q 2637 3878 2074 3878 
+Q 1658 3878 1389 3622 
+L 3072 1216 
+z
+M 2074 397 
+Q 2515 397 2784 685 
+L 1094 3110 
+Q 1030 2912 998 2669 
+Q 966 2426 966 2144 
+Q 966 1306 1238 851 
+Q 1510 397 2074 397 
+z
+" transform="scale(0.015625)"/>
+        <path id="AtkinsonHyperlegible-Regular-42" d="M 486 0 
+L 486 4275 
+L 2208 4275 
+Q 2675 4275 2966 4121 
+Q 3258 3968 3395 3728 
+Q 3533 3488 3533 3213 
+Q 3533 2957 3417 2707 
+Q 3302 2458 3085 2272 
+Q 3405 2106 3561 1821 
+Q 3718 1536 3718 1229 
+Q 3718 922 3561 640 
+Q 3405 358 3091 179 
+Q 2778 0 2310 0 
+L 486 0 
+z
+M 1088 2445 
+L 2272 2445 
+Q 2598 2445 2761 2649 
+Q 2925 2854 2925 3098 
+Q 2925 3264 2851 3417 
+Q 2778 3571 2634 3670 
+Q 2490 3770 2272 3770 
+L 1088 3770 
+L 1088 2445 
+z
+M 1088 506 
+L 2374 506 
+Q 2611 506 2771 614 
+Q 2931 723 3014 892 
+Q 3098 1062 3098 1248 
+Q 3098 1434 3018 1597 
+Q 2938 1760 2774 1865 
+Q 2611 1971 2368 1971 
+L 1088 1971 
+L 1088 506 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#AtkinsonHyperlegible-Regular-30"/>
+       <use xlink:href="#AtkinsonHyperlegible-Regular-42" x="64.799988"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_13">
+      <path d="M 61.82 151.336327 
+L 709.2 151.336327 
+" clip-path="url(#p74aa636e38)" style="fill: none; stroke-dasharray: 4.81,2.08; stroke-dashoffset: 0; stroke: #e5e5e5; stroke-width: 1.3"/>
+     </g>
+     <g id="line2d_14"/>
+     <g id="text_2">
+      <!-- 100B -->
+      <g transform="translate(35.149688 154.671483) scale(0.1 -0.1)">
+       <defs>
+        <path id="AtkinsonHyperlegible-Regular-31" d="M 1408 0 
+L 1408 3226 
+L 269 3226 
+L 269 3654 
+Q 576 3654 841 3699 
+Q 1107 3744 1302 3878 
+Q 1498 4013 1587 4275 
+L 1946 4275 
+L 1946 0 
+L 1408 0 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#AtkinsonHyperlegible-Regular-31"/>
+       <use xlink:href="#AtkinsonHyperlegible-Regular-30" x="40.199997"/>
+       <use xlink:href="#AtkinsonHyperlegible-Regular-30" x="104.999985"/>
+       <use xlink:href="#AtkinsonHyperlegible-Regular-42" x="169.799973"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_15">
+      <path d="M 61.82 110.221345 
+L 709.2 110.221345 
+" clip-path="url(#p74aa636e38)" style="fill: none; stroke-dasharray: 4.81,2.08; stroke-dashoffset: 0; stroke: #e5e5e5; stroke-width: 1.3"/>
+     </g>
+     <g id="line2d_16"/>
+     <g id="text_3">
+      <!-- 200B -->
+      <g transform="translate(33.679375 113.556502) scale(0.1 -0.1)">
+       <defs>
+        <path id="AtkinsonHyperlegible-Regular-32" d="M 218 0 
+L 218 480 
+Q 973 1037 1507 1504 
+Q 2042 1971 2326 2377 
+Q 2611 2784 2611 3162 
+Q 2611 3494 2400 3699 
+Q 2189 3904 1811 3904 
+Q 1510 3904 1251 3741 
+Q 992 3578 915 3187 
+L 378 3341 
+Q 493 3808 877 4080 
+Q 1261 4352 1824 4352 
+Q 2221 4352 2525 4221 
+Q 2829 4090 3005 3840 
+Q 3181 3590 3181 3232 
+Q 3181 2861 3001 2505 
+Q 2822 2150 2508 1814 
+Q 2195 1478 1792 1148 
+Q 1389 819 941 493 
+L 3296 493 
+L 3296 0 
+L 218 0 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#AtkinsonHyperlegible-Regular-32"/>
+       <use xlink:href="#AtkinsonHyperlegible-Regular-30" x="54.899994"/>
+       <use xlink:href="#AtkinsonHyperlegible-Regular-30" x="119.699982"/>
+       <use xlink:href="#AtkinsonHyperlegible-Regular-42" x="184.499969"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_17">
+      <path d="M 61.82 69.106364 
+L 709.2 69.106364 
+" clip-path="url(#p74aa636e38)" style="fill: none; stroke-dasharray: 4.81,2.08; stroke-dashoffset: 0; stroke: #e5e5e5; stroke-width: 1.3"/>
+     </g>
+     <g id="line2d_18"/>
+     <g id="text_4">
+      <!-- 300B -->
+      <g transform="translate(33.429375 72.44152) scale(0.1 -0.1)">
+       <defs>
+        <path id="AtkinsonHyperlegible-Regular-33" d="M 1741 -77 
+Q 1312 -77 1008 64 
+Q 704 205 525 441 
+Q 346 678 269 966 
+L 800 1120 
+Q 870 787 1104 579 
+Q 1338 371 1747 371 
+Q 2170 371 2442 585 
+Q 2714 800 2714 1197 
+Q 2714 1440 2611 1597 
+Q 2509 1754 2349 1837 
+Q 2189 1920 2006 1958 
+Q 1824 1997 1661 2003 
+Q 1498 2010 1395 2010 
+L 1395 2496 
+Q 1574 2496 1782 2515 
+Q 1990 2534 2179 2601 
+Q 2368 2669 2486 2813 
+Q 2605 2957 2605 3206 
+Q 2605 3552 2358 3728 
+Q 2112 3904 1773 3904 
+Q 1382 3904 1152 3705 
+Q 922 3507 858 3187 
+L 333 3341 
+Q 448 3795 822 4073 
+Q 1197 4352 1786 4352 
+Q 2157 4352 2470 4246 
+Q 2784 4141 2976 3901 
+Q 3168 3661 3168 3264 
+Q 3168 2938 2989 2675 
+Q 2810 2413 2470 2272 
+Q 2950 2125 3120 1833 
+Q 3290 1542 3290 1203 
+Q 3290 774 3072 489 
+Q 2854 205 2502 64 
+Q 2150 -77 1741 -77 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#AtkinsonHyperlegible-Regular-33"/>
+       <use xlink:href="#AtkinsonHyperlegible-Regular-30" x="57.399994"/>
+       <use xlink:href="#AtkinsonHyperlegible-Regular-30" x="122.199982"/>
+       <use xlink:href="#AtkinsonHyperlegible-Regular-42" x="186.999969"/>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g id="line2d_19">
+    <path d="M 91.246364 187.954477 
+L 103.507348 190.311699 
+L 115.768333 191.538981 
+L 128.029318 192.145063 
+L 140.290303 193.244518 
+L 152.551288 192.652236 
+L 164.812273 194.465334 
+L 177.073258 194.303338 
+L 189.334242 195.121364 
+L 201.595227 194.96613 
+L 213.856212 194.159837 
+L 226.117197 192.148241 
+L 238.378182 188.964463 
+L 250.639167 186.241731 
+L 262.900152 184.890582 
+L 275.161136 182.658503 
+L 287.422121 181.432613 
+L 299.683106 181.089954 
+L 311.944091 181.588649 
+L 324.205076 182.988453 
+L 336.466061 181.892835 
+L 348.727045 181.918958 
+L 360.98803 181.626763 
+L 373.249015 183.148717 
+L 385.51 181.175287 
+L 397.770985 178.663562 
+L 410.03197 178.584643 
+L 422.292955 176.359979 
+L 434.553939 160.022074 
+L 446.814924 153.078109 
+L 459.075909 145.597389 
+L 471.336894 119.528007 
+L 483.597879 119.000069 
+L 495.858864 120.080052 
+L 508.119848 112.520616 
+L 520.380833 99.996402 
+L 532.641818 110.096196 
+L 544.902803 107.632392 
+L 557.163788 111.604212 
+L 569.424773 102.644926 
+L 581.685758 90.41222 
+L 593.946742 87.476804 
+L 606.207727 86.621537 
+L 618.468712 90.311974 
+L 630.729697 77.713808 
+L 642.990682 61.257674 
+L 655.251667 40.148636 
+L 667.512652 56.446421 
+L 679.773636 69.84882 
+" clip-path="url(#p74aa636e38)" style="fill: none; stroke: #00308f; stroke-width: 2; stroke-linecap: round"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 61.82 202.87 
+L 61.82 32.4 
+" style="fill: none"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 709.2 202.87 
+L 709.2 32.4 
+" style="fill: none"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 61.82 202.87 
+L 709.2 202.87 
+" style="fill: none"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 61.82 32.4 
+L 709.2 32.4 
+" style="fill: none"/>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_7">
+    <path d="M 61.82 387.38 
+L 709.2 387.38 
+L 709.2 216.91 
+L 61.82 216.91 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_3">
+    <g id="xtick_6">
+     <g id="line2d_20">
+      <path d="M 152.551288 387.38 
+L 152.551288 216.91 
+" clip-path="url(#pfef6758c62)" style="fill: none; stroke-dasharray: 4.81,2.08; stroke-dashoffset: 0; stroke: #e5e5e5; stroke-width: 1.3"/>
+     </g>
+     <g id="line2d_21"/>
+     <g id="text_5">
+      <!-- 1980 -->
+      <g transform="translate(141.236444 397.550313) scale(0.1 -0.1)">
+       <defs>
+        <path id="AtkinsonHyperlegible-Regular-39" d="M 1363 0 
+Q 1363 0 1449 121 
+Q 1536 243 1673 441 
+Q 1811 640 1964 873 
+Q 2118 1107 2253 1325 
+Q 2093 1286 1914 1286 
+Q 1498 1286 1149 1494 
+Q 800 1702 592 2051 
+Q 384 2400 384 2822 
+Q 384 3245 589 3590 
+Q 794 3936 1142 4141 
+Q 1491 4346 1914 4346 
+Q 2355 4346 2700 4138 
+Q 3046 3930 3244 3581 
+Q 3443 3232 3443 2810 
+Q 3443 2515 3328 2227 
+Q 3296 2150 3181 1929 
+Q 3066 1709 2890 1395 
+Q 2714 1082 2493 720 
+Q 2272 358 2029 0 
+L 1363 0 
+z
+M 1914 1837 
+Q 2189 1837 2413 1971 
+Q 2637 2106 2771 2330 
+Q 2906 2554 2906 2822 
+Q 2906 3091 2771 3315 
+Q 2637 3539 2413 3670 
+Q 2189 3802 1914 3802 
+Q 1645 3802 1421 3670 
+Q 1197 3539 1065 3315 
+Q 934 3091 934 2822 
+Q 934 2554 1065 2330 
+Q 1197 2106 1421 1971 
+Q 1645 1837 1914 1837 
+z
+" transform="scale(0.015625)"/>
+        <path id="AtkinsonHyperlegible-Regular-38" d="M 1965 -77 
+Q 1523 -77 1164 73 
+Q 806 224 595 509 
+Q 384 794 384 1203 
+Q 384 1619 601 1910 
+Q 819 2202 1171 2342 
+Q 1005 2502 905 2720 
+Q 806 2938 806 3194 
+Q 806 3514 963 3776 
+Q 1120 4038 1382 4195 
+Q 1645 4352 1965 4352 
+Q 2291 4352 2553 4195 
+Q 2816 4038 2973 3776 
+Q 3130 3514 3130 3194 
+Q 3130 2938 3030 2720 
+Q 2931 2502 2765 2342 
+Q 3123 2202 3337 1910 
+Q 3552 1619 3552 1203 
+Q 3552 794 3341 509 
+Q 3130 224 2771 73 
+Q 2413 -77 1965 -77 
+z
+M 1965 2502 
+Q 2246 2502 2448 2704 
+Q 2650 2906 2650 3200 
+Q 2650 3482 2448 3680 
+Q 2246 3878 1965 3878 
+Q 1683 3878 1481 3680 
+Q 1280 3482 1280 3200 
+Q 1280 2906 1481 2704 
+Q 1683 2502 1965 2502 
+z
+M 1965 397 
+Q 2426 397 2698 614 
+Q 2970 832 2970 1203 
+Q 2970 1581 2698 1805 
+Q 2426 2029 1965 2029 
+Q 1510 2029 1238 1805 
+Q 966 1581 966 1203 
+Q 966 832 1238 614 
+Q 1510 397 1965 397 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#AtkinsonHyperlegible-Regular-31"/>
+       <use xlink:href="#AtkinsonHyperlegible-Regular-39" x="40.199997"/>
+       <use xlink:href="#AtkinsonHyperlegible-Regular-38" x="99.999985"/>
+       <use xlink:href="#AtkinsonHyperlegible-Regular-30" x="161.499969"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_7">
+     <g id="line2d_22">
+      <path d="M 275.161136 387.38 
+L 275.161136 216.91 
+" clip-path="url(#pfef6758c62)" style="fill: none; stroke-dasharray: 4.81,2.08; stroke-dashoffset: 0; stroke: #e5e5e5; stroke-width: 1.3"/>
+     </g>
+     <g id="line2d_23"/>
+     <g id="text_6">
+      <!-- 1990 -->
+      <g transform="translate(263.931449 397.550313) scale(0.1 -0.1)">
+       <use xlink:href="#AtkinsonHyperlegible-Regular-31"/>
+       <use xlink:href="#AtkinsonHyperlegible-Regular-39" x="40.199997"/>
+       <use xlink:href="#AtkinsonHyperlegible-Regular-39" x="99.999985"/>
+       <use xlink:href="#AtkinsonHyperlegible-Regular-30" x="159.799973"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_8">
+     <g id="line2d_24">
+      <path d="M 397.770985 387.38 
+L 397.770985 216.91 
+" clip-path="url(#pfef6758c62)" style="fill: none; stroke-dasharray: 4.81,2.08; stroke-dashoffset: 0; stroke: #e5e5e5; stroke-width: 1.3"/>
+     </g>
+     <g id="line2d_25"/>
+     <g id="text_7">
+      <!-- 2000 -->
+      <g transform="translate(385.306141 397.550313) scale(0.1 -0.1)">
+       <use xlink:href="#AtkinsonHyperlegible-Regular-32"/>
+       <use xlink:href="#AtkinsonHyperlegible-Regular-30" x="54.899994"/>
+       <use xlink:href="#AtkinsonHyperlegible-Regular-30" x="119.699982"/>
+       <use xlink:href="#AtkinsonHyperlegible-Regular-30" x="184.499969"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_9">
+     <g id="line2d_26">
+      <path d="M 520.380833 387.38 
+L 520.380833 216.91 
+" clip-path="url(#pfef6758c62)" style="fill: none; stroke-dasharray: 4.81,2.08; stroke-dashoffset: 0; stroke: #e5e5e5; stroke-width: 1.3"/>
+     </g>
+     <g id="line2d_27"/>
+     <g id="text_8">
+      <!-- 2010 -->
+      <g transform="translate(509.145677 397.550313) scale(0.1 -0.1)">
+       <use xlink:href="#AtkinsonHyperlegible-Regular-32"/>
+       <use xlink:href="#AtkinsonHyperlegible-Regular-30" x="54.899994"/>
+       <use xlink:href="#AtkinsonHyperlegible-Regular-31" x="119.699982"/>
+       <use xlink:href="#AtkinsonHyperlegible-Regular-30" x="159.899979"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_10">
+     <g id="line2d_28">
+      <path d="M 642.990682 387.38 
+L 642.990682 216.91 
+" clip-path="url(#pfef6758c62)" style="fill: none; stroke-dasharray: 4.81,2.08; stroke-dashoffset: 0; stroke: #e5e5e5; stroke-width: 1.3"/>
+     </g>
+     <g id="line2d_29"/>
+     <g id="text_9">
+      <!-- 2020 -->
+      <g transform="translate(631.020369 397.550313) scale(0.1 -0.1)">
+       <use xlink:href="#AtkinsonHyperlegible-Regular-32"/>
+       <use xlink:href="#AtkinsonHyperlegible-Regular-30" x="54.899994"/>
+       <use xlink:href="#AtkinsonHyperlegible-Regular-32" x="119.699982"/>
+       <use xlink:href="#AtkinsonHyperlegible-Regular-30" x="174.599976"/>
+      </g>
+     </g>
+    </g>
+    <g id="text_10">
+     <!-- Date -->
+     <g transform="translate(672.073594 418.515156) scale(0.17 -0.17)">
+      <defs>
+       <path id="AtkinsonHyperlegible-Bold-44" d="M 282 0 
+L 282 4275 
+L 1690 4275 
+Q 2214 4275 2665 4169 
+Q 3117 4064 3453 3817 
+Q 3789 3571 3977 3158 
+Q 4166 2746 4166 2138 
+Q 4166 1523 3977 1113 
+Q 3789 704 3453 457 
+Q 3117 211 2665 105 
+Q 2214 0 1690 0 
+L 282 0 
+z
+M 1293 851 
+L 1709 851 
+Q 1984 851 2237 896 
+Q 2490 941 2691 1072 
+Q 2893 1203 3008 1459 
+Q 3123 1715 3123 2138 
+Q 3123 2560 3008 2819 
+Q 2893 3078 2691 3209 
+Q 2490 3341 2237 3389 
+Q 1984 3437 1709 3437 
+L 1293 3437 
+L 1293 851 
+z
+" transform="scale(0.015625)"/>
+       <path id="AtkinsonHyperlegible-Bold-61" d="M 1248 -77 
+Q 947 -77 697 38 
+Q 448 154 301 362 
+Q 154 570 154 858 
+Q 154 1248 426 1478 
+Q 698 1709 1171 1824 
+Q 1645 1939 2259 1984 
+Q 2259 2323 2150 2464 
+Q 2042 2605 1728 2605 
+Q 1530 2605 1379 2512 
+Q 1229 2419 1178 2227 
+L 358 2522 
+Q 518 2842 892 3053 
+Q 1267 3264 1811 3264 
+Q 2490 3264 2854 2963 
+Q 3219 2662 3219 1939 
+L 3219 1242 
+Q 3219 1037 3232 800 
+Q 3245 563 3270 352 
+Q 3296 141 3328 0 
+L 2426 0 
+L 2310 384 
+Q 2131 134 1859 28 
+Q 1587 -77 1248 -77 
+z
+M 1606 589 
+Q 1894 589 2086 742 
+Q 2278 896 2278 1331 
+L 2278 1408 
+Q 1773 1363 1465 1270 
+Q 1158 1178 1158 928 
+Q 1158 774 1286 681 
+Q 1414 589 1606 589 
+z
+" transform="scale(0.015625)"/>
+       <path id="AtkinsonHyperlegible-Bold-74" d="M 1658 0 
+Q 1267 0 1036 67 
+Q 806 134 707 329 
+Q 608 525 608 896 
+L 608 2432 
+L 83 2432 
+L 83 3174 
+L 608 3174 
+L 608 3968 
+L 1581 3968 
+L 1581 3174 
+L 2272 3174 
+L 2272 2432 
+L 1581 2432 
+L 1581 1152 
+Q 1581 928 1667 861 
+Q 1754 794 1990 794 
+L 2272 794 
+L 2272 0 
+L 1658 0 
+z
+" transform="scale(0.015625)"/>
+       <path id="AtkinsonHyperlegible-Bold-65" d="M 1894 -77 
+Q 1382 -77 988 124 
+Q 595 326 374 704 
+Q 154 1082 154 1606 
+Q 154 2112 387 2483 
+Q 621 2854 1008 3059 
+Q 1395 3264 1856 3264 
+Q 2381 3264 2755 3017 
+Q 3130 2771 3322 2339 
+Q 3514 1907 3482 1344 
+L 1133 1344 
+Q 1158 1011 1379 844 
+Q 1600 678 1869 678 
+Q 2093 678 2256 745 
+Q 2419 813 2509 915 
+L 3283 634 
+Q 3034 269 2659 96 
+Q 2285 -77 1894 -77 
+z
+M 1133 1920 
+L 2579 1920 
+Q 2573 2227 2368 2384 
+Q 2163 2541 1882 2541 
+Q 1606 2541 1392 2393 
+Q 1178 2246 1133 1920 
+z
+" transform="scale(0.015625)"/>
+      </defs>
+      <use xlink:href="#AtkinsonHyperlegible-Bold-44"/>
+      <use xlink:href="#AtkinsonHyperlegible-Bold-61" x="68.599991"/>
+      <use xlink:href="#AtkinsonHyperlegible-Bold-74" x="123.899979"/>
+      <use xlink:href="#AtkinsonHyperlegible-Bold-65" x="161.799973"/>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_4">
+    <g id="ytick_5">
+     <g id="line2d_30">
+      <path d="M 61.82 387.38 
+L 709.2 387.38 
+" clip-path="url(#pfef6758c62)" style="fill: none; stroke-dasharray: 4.81,2.08; stroke-dashoffset: 0; stroke: #e5e5e5; stroke-width: 1.3"/>
+     </g>
+     <g id="line2d_31"/>
+     <g id="text_11">
+      <!-- -10B -->
+      <g transform="translate(37.949688 390.715156) scale(0.1 -0.1)">
+       <defs>
+        <path id="AtkinsonHyperlegible-Regular-2d" d="M 243 1331 
+L 243 1850 
+L 2112 1850 
+L 2112 1331 
+L 243 1331 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#AtkinsonHyperlegible-Regular-2d"/>
+       <use xlink:href="#AtkinsonHyperlegible-Regular-31" x="36.799988"/>
+       <use xlink:href="#AtkinsonHyperlegible-Regular-30" x="76.999985"/>
+       <use xlink:href="#AtkinsonHyperlegible-Regular-42" x="141.799973"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_32">
+      <path d="M 61.82 358.968333 
+L 709.2 358.968333 
+" clip-path="url(#pfef6758c62)" style="fill: none; stroke-dasharray: 4.81,2.08; stroke-dashoffset: 0; stroke: #e5e5e5; stroke-width: 1.3"/>
+     </g>
+     <g id="line2d_33"/>
+     <g id="text_12">
+      <!-- -5B -->
+      <g transform="translate(42.62 362.30349) scale(0.1 -0.1)">
+       <defs>
+        <path id="AtkinsonHyperlegible-Regular-35" d="M 1818 -77 
+Q 1389 -77 1088 64 
+Q 787 205 608 441 
+Q 429 678 346 966 
+L 870 1120 
+Q 947 768 1174 569 
+Q 1402 371 1818 371 
+Q 2074 371 2291 492 
+Q 2509 614 2640 844 
+Q 2771 1075 2771 1402 
+Q 2771 1760 2627 1984 
+Q 2483 2208 2262 2313 
+Q 2042 2419 1811 2419 
+Q 1478 2419 1267 2262 
+Q 1056 2106 986 1946 
+L 461 2099 
+L 723 4275 
+L 3174 4275 
+L 3174 3757 
+L 1158 3757 
+L 1011 2560 
+Q 1178 2726 1424 2803 
+Q 1670 2880 1933 2880 
+Q 2310 2880 2627 2707 
+Q 2944 2534 3139 2208 
+Q 3334 1882 3334 1408 
+Q 3334 922 3120 589 
+Q 2906 256 2560 89 
+Q 2214 -77 1818 -77 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#AtkinsonHyperlegible-Regular-2d"/>
+       <use xlink:href="#AtkinsonHyperlegible-Regular-35" x="36.799988"/>
+       <use xlink:href="#AtkinsonHyperlegible-Regular-42" x="95.099976"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_34">
+      <path d="M 61.82 330.556667 
+L 709.2 330.556667 
+" clip-path="url(#pfef6758c62)" style="fill: none; stroke-dasharray: 4.81,2.08; stroke-dashoffset: 0; stroke: #e5e5e5; stroke-width: 1.3"/>
+     </g>
+     <g id="line2d_35"/>
+     <g id="text_13">
+      <!-- 0B -->
+      <g transform="translate(45.649688 333.891823) scale(0.1 -0.1)">
+       <use xlink:href="#AtkinsonHyperlegible-Regular-30"/>
+       <use xlink:href="#AtkinsonHyperlegible-Regular-42" x="64.799988"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_8">
+     <g id="line2d_36">
+      <path d="M 61.82 302.145 
+L 709.2 302.145 
+" clip-path="url(#pfef6758c62)" style="fill: none; stroke-dasharray: 4.81,2.08; stroke-dashoffset: 0; stroke: #e5e5e5; stroke-width: 1.3"/>
+     </g>
+     <g id="line2d_37"/>
+     <g id="text_14">
+      <!-- 5B -->
+      <g transform="translate(46.299688 305.480156) scale(0.1 -0.1)">
+       <use xlink:href="#AtkinsonHyperlegible-Regular-35"/>
+       <use xlink:href="#AtkinsonHyperlegible-Regular-42" x="58.299988"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_9">
+     <g id="line2d_38">
+      <path d="M 61.82 273.733333 
+L 709.2 273.733333 
+" clip-path="url(#pfef6758c62)" style="fill: none; stroke-dasharray: 4.81,2.08; stroke-dashoffset: 0; stroke: #e5e5e5; stroke-width: 1.3"/>
+     </g>
+     <g id="line2d_39"/>
+     <g id="text_15">
+      <!-- 10B -->
+      <g transform="translate(41.629375 277.06849) scale(0.1 -0.1)">
+       <use xlink:href="#AtkinsonHyperlegible-Regular-31"/>
+       <use xlink:href="#AtkinsonHyperlegible-Regular-30" x="40.199997"/>
+       <use xlink:href="#AtkinsonHyperlegible-Regular-42" x="104.999985"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_10">
+     <g id="line2d_40">
+      <path d="M 61.82 245.321667 
+L 709.2 245.321667 
+" clip-path="url(#pfef6758c62)" style="fill: none; stroke-dasharray: 4.81,2.08; stroke-dashoffset: 0; stroke: #e5e5e5; stroke-width: 1.3"/>
+     </g>
+     <g id="line2d_41"/>
+     <g id="text_16">
+      <!-- 15B -->
+      <g transform="translate(42.279375 248.656823) scale(0.1 -0.1)">
+       <use xlink:href="#AtkinsonHyperlegible-Regular-31"/>
+       <use xlink:href="#AtkinsonHyperlegible-Regular-35" x="40.199997"/>
+       <use xlink:href="#AtkinsonHyperlegible-Regular-42" x="98.499985"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_11">
+     <g id="line2d_42">
+      <path d="M 61.82 216.91 
+L 709.2 216.91 
+" clip-path="url(#pfef6758c62)" style="fill: none; stroke-dasharray: 4.81,2.08; stroke-dashoffset: 0; stroke: #e5e5e5; stroke-width: 1.3"/>
+     </g>
+     <g id="line2d_43"/>
+     <g id="text_17">
+      <!-- 20B -->
+      <g transform="translate(40.159063 220.245156) scale(0.1 -0.1)">
+       <use xlink:href="#AtkinsonHyperlegible-Regular-32"/>
+       <use xlink:href="#AtkinsonHyperlegible-Regular-30" x="54.899994"/>
+       <use xlink:href="#AtkinsonHyperlegible-Regular-42" x="119.699982"/>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g id="line2d_44">
+    <path d="M 91.246364 268.407808 
+L 103.507348 300.986009 
+L 115.768333 317.947773 
+L 128.029318 326.324185 
+L 140.290303 341.519302 
+L 152.551288 333.33361 
+L 164.812273 358.391695 
+L 177.073258 356.152817 
+L 189.334242 367.458414 
+L 201.595227 365.312991 
+L 213.856212 354.169545 
+L 226.117197 326.368107 
+L 238.378182 282.366407 
+L 250.639167 244.736641 
+L 262.900152 226.062966 
+" clip-path="url(#pfef6758c62)" style="fill: none; stroke: #007fff; stroke-width: 2; stroke-linecap: round"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 61.82 387.38 
+L 61.82 216.91 
+" style="fill: none"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 709.2 387.38 
+L 709.2 216.91 
+" style="fill: none"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 61.82 387.38 
+L 709.2 387.38 
+" style="fill: none"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 61.82 216.91 
+L 709.2 216.91 
+" style="fill: none"/>
+   </g>
+  </g>
+  <g id="text_18">
+   <!-- 2000 Constant Rupees -->
+   <g transform="translate(298.399688 16.8) scale(0.12 -0.12)">
+    <defs>
+     <path id="AtkinsonHyperlegible-Regular-20" transform="scale(0.015625)"/>
+     <path id="AtkinsonHyperlegible-Regular-43" d="M 2259 -77 
+Q 1651 -77 1216 208 
+Q 781 493 550 992 
+Q 320 1491 320 2144 
+Q 320 2810 566 3306 
+Q 813 3802 1261 4077 
+Q 1709 4352 2310 4352 
+Q 2848 4352 3280 4102 
+Q 3712 3853 3930 3386 
+L 3405 3194 
+Q 3264 3482 2979 3664 
+Q 2694 3846 2278 3846 
+Q 1901 3846 1597 3654 
+Q 1293 3462 1113 3081 
+Q 934 2701 934 2144 
+Q 934 1606 1107 1222 
+Q 1280 838 1590 633 
+Q 1901 429 2298 429 
+Q 2714 429 2998 608 
+Q 3283 787 3430 1082 
+L 3955 890 
+Q 3725 416 3277 169 
+Q 2829 -77 2259 -77 
+z
+" transform="scale(0.015625)"/>
+     <path id="AtkinsonHyperlegible-Regular-6f" d="M 1766 -77 
+Q 1491 -77 1222 19 
+Q 954 115 733 316 
+Q 512 518 377 832 
+Q 243 1146 243 1574 
+Q 243 2003 377 2316 
+Q 512 2630 733 2832 
+Q 954 3034 1222 3130 
+Q 1491 3226 1766 3226 
+Q 2042 3226 2314 3130 
+Q 2586 3034 2806 2832 
+Q 3027 2630 3158 2316 
+Q 3290 2003 3290 1574 
+Q 3290 1146 3158 832 
+Q 3027 518 2806 316 
+Q 2586 115 2314 19 
+Q 2042 -77 1766 -77 
+z
+M 1766 397 
+Q 1997 397 2214 521 
+Q 2432 646 2573 905 
+Q 2714 1165 2714 1574 
+Q 2714 1984 2573 2243 
+Q 2432 2502 2214 2627 
+Q 1997 2752 1766 2752 
+Q 1542 2752 1321 2627 
+Q 1101 2502 960 2243 
+Q 819 1984 819 1574 
+Q 819 1165 960 905 
+Q 1101 646 1321 521 
+Q 1542 397 1766 397 
+z
+" transform="scale(0.015625)"/>
+     <path id="AtkinsonHyperlegible-Regular-6e" d="M 448 0 
+L 448 3174 
+L 845 3174 
+L 986 2694 
+Q 1120 2918 1363 3072 
+Q 1606 3226 2010 3226 
+Q 2586 3226 2822 2890 
+Q 3059 2554 3059 2010 
+L 3059 0 
+L 2522 0 
+L 2522 1850 
+Q 2522 2093 2477 2301 
+Q 2432 2509 2281 2637 
+Q 2131 2765 1824 2765 
+Q 1434 2765 1210 2499 
+Q 986 2234 986 1722 
+L 986 0 
+L 448 0 
+z
+" transform="scale(0.015625)"/>
+     <path id="AtkinsonHyperlegible-Regular-73" d="M 1530 -77 
+Q 1254 -77 988 9 
+Q 723 96 515 272 
+Q 307 448 198 717 
+L 717 909 
+Q 787 627 1027 502 
+Q 1267 378 1530 378 
+Q 1722 378 1891 435 
+Q 2061 493 2169 601 
+Q 2278 710 2278 851 
+Q 2278 1114 2070 1222 
+Q 1862 1331 1574 1389 
+L 1133 1478 
+Q 902 1530 704 1622 
+Q 506 1715 384 1888 
+Q 262 2061 262 2349 
+Q 262 2637 441 2832 
+Q 621 3027 899 3129 
+Q 1178 3232 1485 3232 
+Q 1862 3232 2198 3075 
+Q 2534 2918 2675 2586 
+L 2170 2400 
+Q 2086 2592 1878 2685 
+Q 1670 2778 1446 2778 
+Q 1203 2778 1004 2669 
+Q 806 2560 806 2355 
+Q 806 2150 976 2057 
+Q 1146 1965 1395 1914 
+L 1811 1830 
+Q 2067 1779 2297 1683 
+Q 2528 1587 2675 1398 
+Q 2822 1210 2822 870 
+Q 2822 570 2636 358 
+Q 2451 147 2156 35 
+Q 1862 -77 1530 -77 
+z
+" transform="scale(0.015625)"/>
+     <path id="AtkinsonHyperlegible-Regular-74" d="M 1414 0 
+Q 1114 0 950 61 
+Q 787 122 726 294 
+Q 666 467 666 794 
+L 666 2746 
+L 128 2746 
+L 128 3174 
+L 666 3174 
+L 666 3974 
+L 1203 3974 
+L 1203 3174 
+L 1818 3174 
+L 1818 2746 
+L 1203 2746 
+L 1203 883 
+Q 1203 640 1251 557 
+Q 1299 474 1530 474 
+L 1818 474 
+L 1818 0 
+L 1414 0 
+z
+" transform="scale(0.015625)"/>
+     <path id="AtkinsonHyperlegible-Regular-61" d="M 1338 -77 
+Q 1037 -77 787 32 
+Q 538 141 390 345 
+Q 243 550 243 838 
+Q 243 1216 508 1433 
+Q 774 1651 1257 1769 
+Q 1741 1888 2387 1958 
+Q 2400 2362 2227 2579 
+Q 2054 2797 1670 2797 
+Q 1382 2797 1200 2665 
+Q 1018 2534 966 2304 
+L 448 2458 
+Q 576 2822 905 3024 
+Q 1235 3226 1664 3226 
+Q 2323 3226 2627 2915 
+Q 2931 2605 2931 1939 
+L 2931 1197 
+Q 2931 800 2963 512 
+Q 2995 224 3040 0 
+L 2547 0 
+L 2419 435 
+Q 2278 198 2016 60 
+Q 1754 -77 1338 -77 
+z
+M 1453 352 
+Q 1702 352 1926 441 
+Q 2150 531 2291 745 
+Q 2432 960 2432 1331 
+L 2432 1530 
+Q 1946 1478 1587 1404 
+Q 1229 1331 1033 1200 
+Q 838 1069 838 851 
+Q 838 627 1001 489 
+Q 1165 352 1453 352 
+z
+" transform="scale(0.015625)"/>
+     <path id="AtkinsonHyperlegible-Regular-52" d="M 486 0 
+L 486 4275 
+L 1843 4275 
+Q 2368 4275 2768 4182 
+Q 3168 4090 3395 3824 
+Q 3622 3558 3622 3046 
+Q 3622 2758 3532 2508 
+Q 3443 2259 3190 2086 
+Q 2938 1914 2438 1843 
+L 3763 0 
+L 3027 0 
+L 1728 1798 
+L 1088 1798 
+L 1088 0 
+L 486 0 
+z
+M 1088 2304 
+L 1888 2304 
+Q 2202 2304 2454 2349 
+Q 2707 2394 2857 2550 
+Q 3008 2707 3008 3034 
+Q 3008 3366 2857 3520 
+Q 2707 3674 2454 3722 
+Q 2202 3770 1888 3770 
+L 1088 3770 
+L 1088 2304 
+z
+" transform="scale(0.015625)"/>
+     <path id="AtkinsonHyperlegible-Regular-75" d="M 1453 -77 
+Q 1082 -77 858 80 
+Q 634 237 534 515 
+Q 435 794 435 1152 
+L 435 3181 
+L 973 3181 
+L 973 1280 
+Q 973 928 1056 736 
+Q 1139 544 1289 470 
+Q 1440 397 1638 397 
+Q 2016 397 2230 662 
+Q 2445 928 2445 1434 
+L 2445 3181 
+L 2982 3181 
+L 2982 0 
+L 2579 0 
+L 2445 461 
+Q 2310 230 2080 76 
+Q 1850 -77 1453 -77 
+z
+" transform="scale(0.015625)"/>
+     <path id="AtkinsonHyperlegible-Regular-70" d="M 448 -1030 
+L 448 3174 
+L 838 3174 
+L 986 2675 
+Q 1133 2925 1389 3075 
+Q 1645 3226 2016 3226 
+Q 2381 3226 2691 3030 
+Q 3002 2835 3190 2467 
+Q 3379 2099 3379 1574 
+Q 3379 1056 3190 685 
+Q 3002 314 2691 118 
+Q 2381 -77 2016 -77 
+Q 1645 -77 1389 73 
+Q 1133 224 986 480 
+L 986 -1030 
+L 448 -1030 
+z
+M 1875 384 
+Q 2285 384 2531 697 
+Q 2778 1011 2778 1574 
+Q 2778 2144 2531 2454 
+Q 2285 2765 1875 2765 
+Q 1466 2765 1219 2454 
+Q 973 2144 973 1574 
+Q 973 1011 1219 697 
+Q 1466 384 1875 384 
+z
+" transform="scale(0.015625)"/>
+     <path id="AtkinsonHyperlegible-Regular-65" d="M 1798 -77 
+Q 1299 -77 953 144 
+Q 608 365 425 739 
+Q 243 1114 243 1581 
+Q 243 2086 448 2454 
+Q 653 2822 1001 3024 
+Q 1350 3226 1786 3226 
+Q 2163 3226 2451 3075 
+Q 2739 2925 2928 2672 
+Q 3117 2419 3203 2099 
+Q 3290 1779 3264 1440 
+L 819 1440 
+Q 832 1043 995 812 
+Q 1158 582 1382 489 
+Q 1606 397 1798 397 
+Q 2067 397 2249 483 
+Q 2432 570 2541 710 
+L 3059 557 
+Q 2886 282 2566 102 
+Q 2246 -77 1798 -77 
+z
+M 826 1869 
+L 2694 1869 
+Q 2694 2093 2582 2297 
+Q 2470 2502 2268 2633 
+Q 2067 2765 1786 2765 
+Q 1549 2765 1337 2675 
+Q 1126 2586 988 2387 
+Q 851 2189 826 1869 
+z
+" transform="scale(0.015625)"/>
+    </defs>
+    <use xlink:href="#AtkinsonHyperlegible-Regular-32"/>
+    <use xlink:href="#AtkinsonHyperlegible-Regular-30" x="54.899994"/>
+    <use xlink:href="#AtkinsonHyperlegible-Regular-30" x="119.699982"/>
+    <use xlink:href="#AtkinsonHyperlegible-Regular-30" x="184.499969"/>
+    <use xlink:href="#AtkinsonHyperlegible-Regular-20" x="249.299957"/>
+    <use xlink:href="#AtkinsonHyperlegible-Regular-43" x="277.299942"/>
+    <use xlink:href="#AtkinsonHyperlegible-Regular-6f" x="342.899933"/>
+    <use xlink:href="#AtkinsonHyperlegible-Regular-6e" x="398.09993"/>
+    <use xlink:href="#AtkinsonHyperlegible-Regular-73" x="452.699921"/>
+    <use xlink:href="#AtkinsonHyperlegible-Regular-74" x="499.799911"/>
+    <use xlink:href="#AtkinsonHyperlegible-Regular-61" x="532.199905"/>
+    <use xlink:href="#AtkinsonHyperlegible-Regular-6e" x="584.799896"/>
+    <use xlink:href="#AtkinsonHyperlegible-Regular-74" x="639.399887"/>
+    <use xlink:href="#AtkinsonHyperlegible-Regular-20" x="671.799881"/>
+    <use xlink:href="#AtkinsonHyperlegible-Regular-52" x="699.799866"/>
+    <use xlink:href="#AtkinsonHyperlegible-Regular-75" x="761.599854"/>
+    <use xlink:href="#AtkinsonHyperlegible-Regular-70" x="815.199844"/>
+    <use xlink:href="#AtkinsonHyperlegible-Regular-65" x="871.799835"/>
+    <use xlink:href="#AtkinsonHyperlegible-Regular-65" x="925.699829"/>
+    <use xlink:href="#AtkinsonHyperlegible-Regular-73" x="979.599823"/>
+   </g>
+  </g>
+  <g id="text_19">
+   <!-- Mauritius Net Foreign Assets -->
+   <g transform="translate(22.98 292.594687) rotate(-90) scale(0.12 -0.12)">
+    <defs>
+     <path id="AtkinsonHyperlegible-Regular-4d" d="M 486 0 
+L 486 4275 
+L 1485 4275 
+L 2624 781 
+L 3763 4275 
+L 4762 4275 
+L 4762 0 
+L 4160 0 
+L 4160 3648 
+L 2925 0 
+L 2330 0 
+L 1088 3648 
+L 1088 0 
+L 486 0 
+z
+" transform="scale(0.015625)"/>
+     <path id="AtkinsonHyperlegible-Regular-72" d="M 448 0 
+L 448 3174 
+L 838 3174 
+L 1011 2586 
+Q 1178 2874 1462 3050 
+Q 1747 3226 2144 3226 
+L 2144 2669 
+Q 2099 2669 2051 2669 
+Q 2003 2669 1958 2662 
+Q 1414 2618 1200 2285 
+Q 986 1952 986 1363 
+L 986 0 
+L 448 0 
+z
+" transform="scale(0.015625)"/>
+     <path id="AtkinsonHyperlegible-Regular-69" d="M 998 3776 
+Q 838 3776 720 3894 
+Q 602 4013 602 4179 
+Q 602 4346 720 4461 
+Q 838 4576 998 4576 
+Q 1165 4576 1283 4461 
+Q 1402 4346 1402 4179 
+Q 1402 4013 1283 3894 
+Q 1165 3776 998 3776 
+z
+M 730 0 
+L 730 2746 
+L 288 2746 
+L 288 3174 
+L 1267 3174 
+L 1267 0 
+L 730 0 
+z
+" transform="scale(0.015625)"/>
+     <path id="AtkinsonHyperlegible-Regular-4e" d="M 486 0 
+L 486 4275 
+L 1376 4275 
+L 3322 640 
+L 3322 4275 
+L 3923 4275 
+L 3923 0 
+L 3040 0 
+L 1088 3654 
+L 1088 0 
+L 486 0 
+z
+" transform="scale(0.015625)"/>
+     <path id="AtkinsonHyperlegible-Regular-46" d="M 486 0 
+L 486 4275 
+L 3264 4275 
+L 3264 3757 
+L 1088 3757 
+L 1088 2458 
+L 3264 2458 
+L 3264 1939 
+L 1088 1939 
+L 1088 0 
+L 486 0 
+z
+" transform="scale(0.015625)"/>
+     <path id="AtkinsonHyperlegible-Regular-67" d="M 1754 -1229 
+Q 1498 -1229 1245 -1155 
+Q 992 -1082 797 -915 
+Q 602 -749 518 -486 
+L 1056 -339 
+Q 1146 -589 1350 -672 
+Q 1555 -755 1754 -755 
+Q 2246 -755 2422 -518 
+Q 2598 -282 2598 179 
+L 2598 602 
+Q 2451 352 2208 205 
+Q 1965 58 1587 58 
+Q 1235 58 928 240 
+Q 621 422 432 777 
+Q 243 1133 243 1638 
+Q 243 2150 432 2502 
+Q 621 2854 928 3040 
+Q 1235 3226 1587 3226 
+Q 1965 3226 2208 3075 
+Q 2451 2925 2598 2675 
+L 2746 3174 
+L 3136 3174 
+L 3136 301 
+Q 3136 -454 2832 -841 
+Q 2528 -1229 1754 -1229 
+z
+M 1722 506 
+Q 1965 506 2166 621 
+Q 2368 736 2493 985 
+Q 2618 1235 2618 1638 
+Q 2618 2042 2493 2291 
+Q 2368 2541 2166 2653 
+Q 1965 2765 1722 2765 
+Q 1331 2765 1078 2473 
+Q 826 2182 826 1638 
+Q 826 1094 1078 800 
+Q 1331 506 1722 506 
+z
+" transform="scale(0.015625)"/>
+     <path id="AtkinsonHyperlegible-Regular-41" d="M 64 0 
+L 1670 4282 
+L 2342 4282 
+L 3942 0 
+L 3302 0 
+L 2976 934 
+L 1030 934 
+L 704 0 
+L 64 0 
+z
+M 1216 1453 
+L 2790 1453 
+L 2003 3674 
+L 1216 1453 
+z
+" transform="scale(0.015625)"/>
+    </defs>
+    <use xlink:href="#AtkinsonHyperlegible-Regular-4d"/>
+    <use xlink:href="#AtkinsonHyperlegible-Regular-61" x="81.999985"/>
+    <use xlink:href="#AtkinsonHyperlegible-Regular-75" x="134.599976"/>
+    <use xlink:href="#AtkinsonHyperlegible-Regular-72" x="188.199966"/>
+    <use xlink:href="#AtkinsonHyperlegible-Regular-69" x="222.199951"/>
+    <use xlink:href="#AtkinsonHyperlegible-Regular-74" x="249.999939"/>
+    <use xlink:href="#AtkinsonHyperlegible-Regular-69" x="282.399933"/>
+    <use xlink:href="#AtkinsonHyperlegible-Regular-75" x="310.199921"/>
+    <use xlink:href="#AtkinsonHyperlegible-Regular-73" x="363.799911"/>
+    <use xlink:href="#AtkinsonHyperlegible-Regular-20" x="410.899902"/>
+    <use xlink:href="#AtkinsonHyperlegible-Regular-4e" x="438.899887"/>
+    <use xlink:href="#AtkinsonHyperlegible-Regular-65" x="507.799881"/>
+    <use xlink:href="#AtkinsonHyperlegible-Regular-74" x="561.699875"/>
+    <use xlink:href="#AtkinsonHyperlegible-Regular-20" x="594.099869"/>
+    <use xlink:href="#AtkinsonHyperlegible-Regular-46" x="622.099854"/>
+    <use xlink:href="#AtkinsonHyperlegible-Regular-6f" x="676.899841"/>
+    <use xlink:href="#AtkinsonHyperlegible-Regular-72" x="732.099838"/>
+    <use xlink:href="#AtkinsonHyperlegible-Regular-65" x="766.099823"/>
+    <use xlink:href="#AtkinsonHyperlegible-Regular-69" x="819.999817"/>
+    <use xlink:href="#AtkinsonHyperlegible-Regular-67" x="847.799805"/>
+    <use xlink:href="#AtkinsonHyperlegible-Regular-6e" x="903.799789"/>
+    <use xlink:href="#AtkinsonHyperlegible-Regular-20" x="958.39978"/>
+    <use xlink:href="#AtkinsonHyperlegible-Regular-41" x="986.399765"/>
+    <use xlink:href="#AtkinsonHyperlegible-Regular-73" x="1048.999756"/>
+    <use xlink:href="#AtkinsonHyperlegible-Regular-73" x="1096.099747"/>
+    <use xlink:href="#AtkinsonHyperlegible-Regular-65" x="1143.199738"/>
+    <use xlink:href="#AtkinsonHyperlegible-Regular-74" x="1197.099731"/>
+    <use xlink:href="#AtkinsonHyperlegible-Regular-73" x="1229.499725"/>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p74aa636e38">
+   <rect x="61.82" y="32.4" width="647.38" height="170.47"/>
+  </clipPath>
+  <clipPath id="pfef6758c62">
+   <rect x="61.82" y="216.91" width="647.38" height="170.47"/>
+  </clipPath>
+ </defs>
+</svg>

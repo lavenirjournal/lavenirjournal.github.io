@@ -20,22 +20,22 @@ The National Assembly shall have power to investigate all affairs of the entire 
 
 
 :::{.text-center}
-Section 2
+Section 3
 :::
 
 The National Assembly and The President shall be bound by the maxim of "Securing Life, Liberty, and the Rights of the people in their pursuit of Happiness" in the case mentioned below. 
 
-Any law or circumstance meeting all the following conditions unequivocally, first that the law or circumstance in controversy shall concern civil rights, second that the law or circumstance in controversy shall be to the detriment of the exercising of civil rights of a distinct group in the Republic, and lastly while at the same time being favorable to the majority group, shall point to a law that is a reflection of a tyranny of the majority and shall therefore be redressed by the legislature or the executive so that they may fulfill their maxim.^[Communalism will be virtually impossible with this. So you have nothing to fear. What you have feared all your life because of the fear mongering of politicians. Si un tel vine premier minis, li pa pou donne malbar nanien. All of that will be in the past going forward. We will all be equals. Even you, the one from the minority group, you will finally get your house from the NHDC. ]
+Any law or circumstance meeting all the following conditions unequivocally, first that the law or circumstance in controversy shall concern civil rights, second that the law or circumstance in controversy shall be to the detriment of the exercising of civil rights of a distinct group in the Republic, and lastly while at the same time being favorable to the majority group, shall point to a situation that is a reflection of a tyranny of the majority and shall therefore be redressed by the legislature or the executive so that they may fulfill their maxim.^[Communalism will be virtually impossible with this. So you have nothing to fear. What you have feared all your life because of the fear mongering of politicians. Si un tel vine premier minis, li pa pou donne malbar nanien. All of that will be in the past going forward. We will all be equals. Even you, the one from the minority group, you will finally get your house from the NHDC. ]
 
 
 :::{.text-center}
-Section 3
+Section 4
 :::
 
 The National Assembly shall choose their Speaker and other Officers; and shall have the sole Power of Impeachment.
 
 :::{.text-center}
-Section 4
+Section 5
 :::
 
 The National Assembly may determine the Rules of its Proceedings, punish its Members for disorderly Behaviour, and, with the Concurrence of two thirds, expel a Member.
@@ -46,41 +46,39 @@ It shall keep a Journal of its Proceedings, and from time to time publish the sa
 
 
 :::{.text-center}
-Section 5
+Section 6
 :::
 
 All bills to raise revenue shall originate from the National Assembly.
 
-Every bill shall have a title which matches its soul (singular). The title shall be considered a set by which its finite subsets shall intuitively follow. A set which shall contain the possibility of infinite subsets shall be called an omnibus bill.
+Every bill shall have a title which matches its soul. The title shall be considered a set by which its finite subsets shall intuitively follow. A set which shall contain the possibility of infinite subsets shall be called an omnibus bill.
 
 It shall be at the President's sole discretion when an omnibus bill is sent to him to decide whether to consider the bill or to veto it. An Omnibus bill shall only supersede the president's veto if it is voted unanimously by the entire National Assembly.^[Finance bills which will get your name off the registered voters list, like was done prior to the 2019 elections for minorities, will be virtually impossible in the future, with this paragraph aided by the one before it.]
 
-Every bill shall need to have the vote of 3/5 of the National Assembly to warrant the bill's passage to its next step which shall be to send the bill to the president for his approval and signing. If he approves he shall sign it and the bill shall become law, but if not he shall return it, along with his objections to the house who shall proceed to enter the objections at large on their journal and proceed to reconsider it. If after such reconsideration two thirds of the house shall vote to pass the bill, it shall become law.^[Promotes bipartisanship by requiring more than simple majority]
+Every bill shall need to have the vote of three fifths of the National Assembly to warrant the bill's passage to its next step which shall be to send the bill to the president for his approval and signing. If he approves he shall sign it and the bill shall become law, but if not he shall return it, along with his objections to the house who shall proceed to enter the objections at large on their journal and proceed to reconsider it. If after such reconsideration two thirds of the house shall vote to pass the bill, it shall become law.^[Promotes bipartisanship by requiring more than simple majority]
 
 Every order, resolution, or vote to which the concurrence of the National Assembly may be necessary shall be presented to the President of Mauritius; and before the same shall take effect, shall be approved by him, or being disapproved by him, shall be repassed by two thirds of the National Assembly, according to the rules and limitations prescribed in the case of a bill.
 
 
 :::{.text-center}
-Section 6
+Section 7
 :::
 
 Members of the National Assembly shall in all Cases, except Treason, Felony and Breach of the Peace, be privileged from Arrest during their Attendance at the Session of the House, and in going to and returning from the same; and for any Speech or Debate in the House, they shall not be questioned in any other Place.
 
-No member of the National Assembly shall, during the Time for which he was elected, be appointed to any civil Office under the Authority of Mauritius; and any Person holding any Office for Profit under Mauritius during their tenure shall have its **income** incumber a special tax called the corruption tax at the rate of 90\%, to make stealing an unproductive endeavor, during their Continuance in Office.^[This amendement kills the Tamano's and Toopun's of this world we live in. Stealing would effectively, push their tax bills astronomically high, making holding any office for profit unlikely during their continuance in office. They will be forced to give back 900,000 Rs for every 1,000,000 Rs they steal.] 
+No member of the National Assembly shall, during the Time for which he was elected, be appointed to any civil Office under the Authority of Mauritius; and any Person holding any Office for Profit under Mauritius during their tenure shall have its financial statements be published for three whole weeks in all newspapers as provisioned by law.
 
 :::{.text-center}
-Section 7
+Section 8
 :::
 
 The National Assembly shall have power to lay and collect taxes, duties, imposts and excises, to pay the debts and provide for the common defense and general welfare of Mauritius.
 
-To borrow money on the credit of Mauritius.^[It will become impossible to take debt by the executive without parliament's co-operation which is not the case now.]
+To borrow money on the credit of Mauritius.^[It will become impossible for your King to take debt like he is doing now run our bankrupt country, effectively just piling more and more debt without needing parliament's co-operation ruining our country's future but doing what is best for him. Going forward that is over.]
 
 To regulate commerce with foreign nations and among the several districts.
 
 To establish a uniform rule of naturalization, and a singular source of law on the subject of bankruptcies, corporations, crimes and civil disagreements which shall be applicable in Mauritius.^[Setup to transition to modern penal, civil and corporate codes]
-
-To give the people of this Republic a choice to make their new source of law ex-post facto law.^[Retributive Justice.]
 
 To create a uniform charter so local governments can have proper autonomy and empower them with impeachment, rule making and decentralisation powers proper to them.
 
@@ -108,21 +106,17 @@ To provide and maintain any form of militia.
 
 To provide, regulate and maintain National Security, Intelligence, Crime and Corruption agencies.^[Alternatives to ICAC, NSS, SMF which would be highly regulated by Parliament]
 
-To make rules for the Government and Regulation of any Land and Naval militia.^[Introduction of Military Service as an alternative career choice for people, We already have this informally, we will just formally call it the military now. Military service is a voluntary career choice not a compulsory thing.]
+To make rules for the Government and Regulation of any Land and Naval militia.^[Keeping military service as an alternative career choice for people. We already have this informally, we will just formally call it the military now. Military service is a voluntary career choice not a compulsory thing.]
 
 To provide for calling forth the Militia to execute the Laws of the Republic, suppress Insurrections and repel Invasions.
 
 To make all Laws which shall be necessary and proper for carrying into Execution the foregoing Powers, and all other Powers vested by this Constitution in the Government of Mauritius, or in any Department or Officer thereof.^[This makes parliament the most powerful branch in the State Government.]
 
 :::{.text-center}
-Section 7
+Section 9
 :::
 
 The privilege of the writ of habeas corpus shall not be suspended, unless when in cases of rebellion or invasion, the public safety may require it.
-
-No ex post facto Law shall be passed unless the principle of Res Ipsa Loquitor holds as to the inadequateness of any law's past iteration.^[Ex post facto law will only be passed, if the past iteration of the law, is **obviously negligently set up to work against the law's ability to consistently secure Justice.** ]
-
-Ex post facto Law shall be used solely to prosecute past cases of Corruption, Collusion and Abuse of power (market or human) that happened in the First Republic of Mauritius.
 
 No Money shall be drawn from the Treasury, but in Consequence of Appropriations made by Law. and a regular Statement and Account of the Receipts and Expenditures of all public Money shall be published from time to time by the various components of the Government of Mauritius.
 

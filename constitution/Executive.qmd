@@ -13,19 +13,19 @@ Section 1
 The executive power shall be vested in a President of the Republic of Mauritius.
 
 :::{.text-center}
+Section 2
+:::
+
+The President shall be Commander in Chief of the para-military forces of Mauritius. 
+
+:::{.text-center}
 Section 3
 :::
 
-The President shall be Commander in Chief of the military and para-military forces of Mauritius. 
+He shall have Power to grant Reprieves and Pardons for Offenses against Mauritius, except in Cases of Impeachment. 
 
 :::{.text-center}
-Section 5
-:::
-
-He shall have Power to grant Reprieves and Pardons for Offenses against Mauritius, except in Cases of Impeachment. Courts shall be tasked with determining the validity of any pardon if they are called upon to.
-
-:::{.text-center}
-Section 6
+Section 4
 :::
 
 He shall have Power, by and with the Advice and Consent of the National Assembly, to make Treaties, provided two thirds of the National Assembly present concur.
