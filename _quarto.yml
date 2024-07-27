@@ -71,5 +71,5 @@ format:
       margin-width: 0px
 
 execute: 
-  freeze: true
+  freeze: auto
   cache: true
