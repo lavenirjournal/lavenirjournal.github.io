@@ -3,12 +3,11 @@
     "posts.qmd": [
       "posts"
     ],
-    "index.qmd": [
-      "posts",
-      "constitution"
-    ],
     "constitution.qmd": [
       "constitution"
+    ],
+    "index.qmd": [
+      "posts"
     ]
   }
 }

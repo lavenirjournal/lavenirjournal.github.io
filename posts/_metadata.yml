@@ -1,5 +1,6 @@
 page-layout: article
 sidebar: false
+freeze: true
 copyright: "Copyright Yuuki. 2024. All Rights Reserved"
 license: "CC BY-SA"
 jupyter: python3

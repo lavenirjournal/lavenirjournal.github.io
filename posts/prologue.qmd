@@ -2,7 +2,7 @@
 title: 'The Dumbducks Problem'
 subtitle : ' The aim of this paper is to elegantly and sarcastically present the only problem that the Republic of Mauritius has had for fifty six years now, which is preventing it from becoming an advanced economy.'
 author : 'Yuuki'
-date: '03/12/2025'
+date: '10/26/2024'
 cap-location: top
 
 ---

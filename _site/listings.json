@@ -1,12 +1,17 @@
 [
   {
-    "listing": "/index.html",
+    "listing": "/constitution.html",
     "items": [
-      "/posts/prologue.html",
-      "/posts/chapterone.html",
-      "/posts/chaptertwo.html",
-      "/posts/chapterthree.html",
-      "/posts/chapterfour.html"
+      "/constitution/preamble.html",
+      "/constitution/Amendements.html",
+      "/constitution/Rights.html",
+      "/constitution/Legislative.html",
+      "/constitution/Judiciary.html",
+      "/constitution/Executive.html",
+      "/constitution/Impeachment.html",
+      "/constitution/Elections.html",
+      "/constitution/Decentralization.html",
+      "/constitution/Compensation.html"
     ]
   },
   {
@@ -20,18 +25,13 @@
     ]
   },
   {
-    "listing": "/constitution.html",
+    "listing": "/index.html",
     "items": [
-      "/constitution/preamble.html",
-      "/constitution/Amendements.html",
-      "/constitution/Rights.html",
-      "/constitution/Legislative.html",
-      "/constitution/Judiciary.html",
-      "/constitution/Executive.html",
-      "/constitution/Impeachment.html",
-      "/constitution/Elections.html",
-      "/constitution/Decentralization.html",
-      "/constitution/Compensation.html"
+      "/posts/prologue.html",
+      "/posts/chapterone.html",
+      "/posts/chaptertwo.html",
+      "/posts/chapterthree.html",
+      "/posts/chapterfour.html"
     ]
   }
 ]
