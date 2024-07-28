@@ -50,14 +50,9 @@ Section 7
 
 Excessive bail shall not be required, nor excessive fines imposed, nor cruel and unusual punishments inflicted.
 
+
 :::{.text-center}
 Section 8
-:::
-
-No person shall be convicted or punished in cases where the only proof against him is his own confession.^[ This will allow people who were coerced into providing self-incrinating confessions obtained through torture, a classic in our lovely country, to get their day in court.]
-
-:::{.text-center}
-Section 9
 :::
 
 Any person, in case he is acquitted after he has been wrongfully arrested or detained, may sue the State for redress as ascertained by law.^[This would effectively cease all police torture because their pockets would become liable.]
@@ -65,7 +60,7 @@ Any person, in case he is acquitted after he has been wrongfully arrested or det
 Any law enforcement officer found guilty of violating the due process of law when it concerns the rights of a person shall be liable to pay 10\% percent of the state's compensation to the citizen as redress out of their pocket, or salary in installments or deducted against their future pensions for each count they may be liable to during their service in law enforcement.
 
 :::{.text-center}
-Section 10
+Section 9
 :::
 
 The age where a citizen can be deemed old enough to consent to sexual intercourse shall be set at eighteen years.^[It is currently 16. I am a conservative but liberal person I guess.]
@@ -73,13 +68,13 @@ The age where a citizen can be deemed old enough to consent to sexual intercours
 A Romeo and Juliet clause shall be allowed where the difference of the absolute value of the two ages in controversy shall be at most 2.^[Don't mess with kids if you are no longer one.]
 
 :::{.text-center}
-Section 11
+Section 10
 :::
 
 The citizens shall pay to have information and unbiased education provided on public radio and television and therefore shall be entitled to have them be free from partisanship of any kind and propaganda.^[I will transition the MBC to a PBS style educative focused television channel. We will also focus on creating TV shows that espouses our history in French and English and do our best to export it. We can create a lot of colonial fiction for example and sell it to both the UK market and the French market. I am sure there are talented screen writers in the country.]
 
 :::{.text-center}
-Section 12
+Section 11
 :::
 
 The enumeration in this Constitution, of certain rights, shall not be construed to deny or disparage others retained by the people such as but not limited to; the protection of the people against slavery and involuntary servitude, the right to move at will and enjoy freedom of residence, freedom of occupation, freedom of learning and the arts, the right to private property, the right to privacy and any other self evident right.^[Thought of a self evident right that I did not cover? This section covers it informally.]
