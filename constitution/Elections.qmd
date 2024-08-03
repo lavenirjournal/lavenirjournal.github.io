@@ -13,7 +13,7 @@ Section 1
 
 Elections shall be done by secret ballot. 
 
-Elections dates, term ending dates and the National Assembly's session starting dates shall be fixed intemporally as is ascertained by law.
+Elections dates, term ending dates and the National Assembly's session starting dates shall be fixed intemporally as is ascertained by law.^[Deny any strategical advantage to a calendar filled with arbitrary propaganda and coupe ruban ceremonies]
 
 No two state wide elections shall happen simultaneously.
 
@@ -22,7 +22,7 @@ No two state wide elections shall happen simultaneously.
 Section 2
 :::
 
-The right of citizens of Mauritius to vote shall not be denied or abridged by the State of Mauritius or by any district on account of color, race, or sex. Nor on citizens who are eighteen years of age or older as long as they be registered voters unless they be in prison in which case they cannot vote.
+The right of citizens of Mauritius to vote shall not be denied or abridged by the State of Mauritius or by any district on account of color, race, or sex. Nor on citizens who are eighteen years of age or older as long as they be registered voters unless they be incarcerated in prison in which case they cannot vote.
 
 :::{.text-center}
 Section 3
@@ -46,7 +46,7 @@ Section 5
 
 The election of the President shall be done by direct suffrage for a six year mandate.
 
-The President of Mauritius shall be elected by an absolute majority of votes cast. If such a majority is not obtained on the first round of voting. A second round of voting shall take place with the whole republic voting again fourteen days after the first round. Only the two candidates polling the greatest number of votes in the first round, after withdrawal of any better placed candidates may stand in the second round.^[We'll follow France's election style.]
+The President of Mauritius shall be elected by an absolute majority of votes cast. If such a majority is not obtained on the first round of voting. A second round of voting shall take place with the whole republic voting again fourteen days after the first round. Only the two candidates polling the greatest number of votes in the first round, after withdrawal of any better placed candidates may stand in the second round.^[This would allow us to stray away from communalism with enough time and education and give us a chance to move away from despotism. This would basically allow competence to bloom.]
 
 The matter of death arising in Presidential elections and Presidential incumbents shall be provisioned against by Law.
 
@@ -54,7 +54,7 @@ The matter of death arising in Presidential elections and Presidential incumbent
 Section 6
 :::
 
-The National Assembly shall initially determine the multi member constituencies (seats), the party seats to balance representation, and the intemporal method by which they shall be readjusted periodically.
+The National Assembly shall initially determine the multi member constituencies (seats), the party seats to balance representation, and the intemporal method by which they shall be readjusted periodically.^[Again we want to stray away from communalism and this would allow more parties to have permanent presence in parliament thus favoring the breaking away from communalism over a long enough period of time]
 
 When vacancies happen in the Representation from any District, the Executive Authority thereof shall issue Writs of Election to fill such vacancies as provisioned by law.
 
@@ -73,7 +73,7 @@ Section 8
 
 The Supreme Court of Mauritius shall be composed of two Associate Justices, chosen by the people elected for a six year mandate.^[To make our supreme court reliable to let go of the privy council.]
 
-The very first batch shall however be chosen by the President with the approval and advice of two thirds of the National Assembly. After they be chosen by the president they shall be divided randomly into two classes. The Associate Justice of the first Class shall be vacated at the Expiration of the third Year, and that of the second Class at the Expiration of the sixth Year so that one Associate Justice may be chosen by the people every third year.^[Senate trick the US uses.]
+The very first batch shall however be chosen by the President with the approval and advice of two thirds of the National Assembly. After they be chosen by the president they shall be divided randomly into two classes. The Associate Justice of the first Class shall be vacated at the Expiration of the third Year, and that of the second Class at the Expiration of the sixth Year so that one Associate Justice may be chosen by the people every third year.^[Senate trick the US uses which we will use to make our Supreme Court a reliable last court where we should expect justice to be served.]
 
 The proceedings for the elections of Justices are the same as the President's. 
 

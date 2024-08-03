@@ -15,8 +15,6 @@ website:
     right:
       - text: 'Home'
         href: index.qmd
-      - text: 'General Purpose'
-        href: about.qmd
       - text: 'The Concerned Citizen'
         href: "posts.qmd"
       - text: 'The Second Republic'
@@ -50,8 +48,6 @@ website:
     left: 
       - text: 'Home'
         href: index.qmd
-      - text: 'GP'
-        href: 'about.qmd'
       - text: 'Disclaimer'
         href: disclaimer.qmd
       - text: 'TCC'

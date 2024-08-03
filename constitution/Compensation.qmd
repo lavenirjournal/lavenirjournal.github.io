@@ -16,7 +16,7 @@ All elected officials shall receive a Compensation with benefits for their Servi
 
 No law, varying the compensation for the services of any elected officials, shall take effect, until the next round of election shall have intervened for the office in controversy.
 
-All public sector workers and elected members shall have access to the same contributory pension system as provisioned by law. 
+All public sector workers and elected members shall have access to the same contributory pension system as provisioned by law.^[Think [FERS](https://www.opm.gov/retirement-center/fers-information/)]
 
 :::{.text-center}
 Section 2
@@ -37,8 +37,6 @@ Section 3
 Total pension to be paid for the service of an elected official after his term ends by the state using the people's money shall be calculated using the following formulation being careful to always take highest pension $p_{h}$ to the lowest pension $p_{l}$ in the following fashion. This shall be applied on all pensions as if they always lived under such regulation.
 
 \begin{equation} \sum_{n=1}^{\infty} \sum_{p=h}^{l} \frac{1}{n} p \end{equation} for $n$ starting at 1.
-
-All past elected officials and government officials of the First Republic of Mauritius who profited through the existence of the First Republic of Mauritius receiving a pension paid by the People of the Republic of Mauritius shall have the possibility to relinquish all future cash flow of their state pensions as compensation in a quid pro quo restitution in exchange for immunity against prosecution for their past financial crimes whereby money was expropriated from the Republic of Mauritius.^[ Think about it. ]
 
 
 :::{.text-center}

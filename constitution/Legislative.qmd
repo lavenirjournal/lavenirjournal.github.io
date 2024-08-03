@@ -66,7 +66,7 @@ Section 7
 
 Members of the National Assembly shall in all Cases, except Treason, Felony and Breach of the Peace, be privileged from Arrest during their Attendance at the Session of the House, and in going to and returning from the same; and for any Speech or Debate in the House, they shall not be questioned in any other Place.
 
-No member of the National Assembly shall, during the Time for which he was elected, be appointed to any civil Office under the Authority of Mauritius; and any Person holding any Office for Profit under Mauritius during their tenure shall have its financial statements be published for three whole weeks in all newspapers as provisioned by law.
+No member of the National Assembly shall, during the Time for which he was elected, be appointed to any civil Office under the Authority of Mauritius; and any Person holding any Office for Profit under Mauritius during their tenure shall have its financial statements be published for three whole weeks in all newspapers as provisioned by law.^[Let people decide whether they want to punish the person representing them for making dough on the side with almost certainly some insider information or some corruption of some kind]
 
 :::{.text-center}
 Section 8

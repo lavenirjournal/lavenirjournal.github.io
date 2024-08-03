@@ -1,5 +1,23 @@
 [
   {
+    "listing": "/index.html",
+    "items": [
+      "/posts/chapterone.html",
+      "/posts/chaptertwo.html",
+      "/posts/chapterthree.html",
+      "/posts/chapterfour.html"
+    ]
+  },
+  {
+    "listing": "/posts.html",
+    "items": [
+      "/posts/chapterone.html",
+      "/posts/chaptertwo.html",
+      "/posts/chapterthree.html",
+      "/posts/chapterfour.html"
+    ]
+  },
+  {
     "listing": "/constitution.html",
     "items": [
       "/constitution/preamble.html",
@@ -12,26 +30,6 @@
       "/constitution/Elections.html",
       "/constitution/Decentralization.html",
       "/constitution/Compensation.html"
-    ]
-  },
-  {
-    "listing": "/posts.html",
-    "items": [
-      "/posts/prologue.html",
-      "/posts/chapterone.html",
-      "/posts/chaptertwo.html",
-      "/posts/chapterthree.html",
-      "/posts/chapterfour.html"
-    ]
-  },
-  {
-    "listing": "/index.html",
-    "items": [
-      "/posts/prologue.html",
-      "/posts/chapterone.html",
-      "/posts/chaptertwo.html",
-      "/posts/chapterthree.html",
-      "/posts/chapterfour.html"
     ]
   }
 ]
