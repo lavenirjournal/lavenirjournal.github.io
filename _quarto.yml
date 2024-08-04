@@ -6,6 +6,8 @@ project:
     port: 4500
 
 website:
+  google-analytics: "G-05SL6CT686"
+  cookie-consent: true
   title: "LAVENIRMORIS"
   twitter-card: true
   open-graph: true
