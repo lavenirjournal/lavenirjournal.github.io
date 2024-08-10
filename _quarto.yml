@@ -25,11 +25,12 @@ website:
   sidebar: 
     - title: The Second Republic Project
       contents:
-        - posts/prologue.qmd
         - posts/chapterone.qmd
         - posts/chaptertwo.qmd
         - posts/chapterthree.qmd
         - posts/chapterfour.qmd
+        - posts/chapterfive.qmd
+
 
     - title: The Second Republic White Paper
       contents:
