@@ -432,7 +432,7 @@ RER_{t}= k_{t} \cdot \cfrac{p_{t}}{p^{*}_{t}}
 <p><span class="math display">\[\begin{equation}\tag{e}
 (1+0.01)^{35} = 1.41
 \end{equation}\]</span></p>
-<p>So tell how the exchange rate C/D performed? It appreciated? Why? Because C’s inflation is lower than D’s inflation. What happened to C/E ? It depreciated? Why? Because C’s inflation in this case is higher than E’s. What if the exchange rates remained roughly the same within a band of <span class="math inline">\([-0.03,0.03]\)</span> percent. What would that mean exactly? That the inflation rates of the two countries you are looking at are roughly speaking, similar!</p>
+<p>So tell how the exchange rate C/D performed? It appreciated? Why? Because C’s inflation is lower than D’s inflation. What happened to C/E ? It depreciated? Why? Because C’s inflation in this case is higher than E’s. What if the exchange rates remained roughly the same within a band of <span class="math inline">\([-0.1,0.1]\)</span> percent for a very long period of time. What would that mean exactly? That the inflation rates of the two countries you are looking at are roughly speaking, similar!</p>
 <p><br></p>
 <!-- TradingView Widget BEGIN -->
 <div class="tradingview-widget-container">
@@ -483,7 +483,7 @@ RER_{t}= k_{t} \cdot \cfrac{p_{t}}{p^{*}_{t}}
 <!-- TradingView Widget END -->
 <p>To be able to estimate actual inflation using this method, you must first understand why it works. Because countries can trade with each other, that means that arbitrage (buying cheap from a country reselling high domestically), will always happen to bring prices of tradable goods between countries to equilibrium. Not the price of services though. A hair cut cannot be traded and will always cost more abroad compared to Mauritius if you are using advanced economies as comparison standards. So to use this method called Relative Purchasing Power Parity, the first thing you must do, is pick a highly tradable good, that is sold worlwide and in huge quantities so that you can assume that there is always arbitrage going on for this good so that its prices are heading for equilibrium, at the very least. Such a good, is the IPhone.</p>
 <p>From the current price of the rupee to the dollar, we can assume that there has been atleast a difference of inflation amounting to the order of <span class="math inline">\(32\%\)</span> judging from the graph between the United States and Mauritius. That right off the bat is more than the again measly <span class="math inline">\(27\%\)</span> you are being shown which is clearly Bullshit. So the US had a CPI reading of <span class="math inline">\(314\)</span> in May and going back to Jan 2020, it had a reading of <span class="math inline">\(258\)</span>. Added to our 32% that gives us an inflation of 53%.</p>
-<div id="2d08cac0" class="cell" data-execution_count="1">
+<div id="38881f17" class="cell" data-execution_count="1">
 <details open="" class="code-fold">
 <summary>Show the code</summary>
 <div class="sourceCode cell-code" id="cb1"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a>difference_usd_mur <span class="op">=</span> <span class="fl">0.32</span></span>
@@ -498,7 +498,7 @@ RER_{t}= k_{t} \cdot \cfrac{p_{t}}{p^{*}_{t}}
 </div>
 <p>So now we can calculate the remaining inflation that the country has gone through based on how overvalued the currency is. That is to say, we can use the RER to find out the remaining inflation that Mauritius went through in the past four years. So remember the equation is the following.</p>
 <p><span class="math display">\[ RER_{t} = MURUSD_{t} \cdot \frac{p_{Iphone}^{MUR}}{p_{Iphone}^{USD}}  \]</span></p>
-<div id="4702f20d" class="cell" data-execution_count="2">
+<div id="59b73b1a" class="cell" data-execution_count="2">
 <details open="" class="code-fold">
 <summary>Show the code</summary>
 <div class="sourceCode cell-code" id="cb3"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a>mur_price_iphone <span class="op">=</span> <span class="dv">105999</span></span>
@@ -541,7 +541,7 @@ Y(G(i)+N) := \dot{G} = -rG(i)  \Longleftrightarrow \dot{D} = rD(L(i)-D)  \\
 <p><span class="math display">\[\begin{equation}\tag{10}
 \max_{Y} Y(G(i),N)
 \end{equation}\]</span></p>
-<div id="083cf663" class="cell" data-execution_count="3">
+<div id="29731362" class="cell" data-execution_count="3">
 <details class="code-fold">
 <summary>Show the code</summary>
 <div class="sourceCode cell-code" id="cb5"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb5-1"><a href="#cb5-1" aria-hidden="true" tabindex="-1"></a><span class="op">%%</span>capture</span>
@@ -556,7 +556,7 @@ Y(G(i)+N) := \dot{G} = -rG(i)  \Longleftrightarrow \dot{D} = rD(L(i)-D)  \\
 <span id="cb5-10"><a href="#cb5-10" aria-hidden="true" tabindex="-1"></a>plt.rc(<span class="st">'font'</span>, family<span class="op">=</span><span class="st">'Atkinson Hyperlegible'</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 </div>
-<div id="8dadd31a" class="cell" data-execution_count="4">
+<div id="a0374ad0" class="cell" data-execution_count="4">
 <details class="code-fold">
 <summary>Show the code</summary>
 <div class="sourceCode cell-code" id="cb6"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb6-1"><a href="#cb6-1" aria-hidden="true" tabindex="-1"></a><span class="co">## logistic debt capacity simulation</span></span>

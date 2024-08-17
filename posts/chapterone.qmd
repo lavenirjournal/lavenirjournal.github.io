@@ -151,7 +151,7 @@ Now this is it, this is what makes the difference in exchange rates over time, i
 \end{equation}
 
 
-So tell how the exchange rate C/D performed? It appreciated? Why? Because C's inflation is lower than D's inflation. What happened to C/E ? It depreciated? Why? Because C's inflation in this case is higher than E's. What if the exchange rates remained roughly the same within a band of $[-0.03,0.03]$ percent. What would that mean exactly? That the inflation rates of the two countries you are looking at are roughly speaking, similar!
+So tell how the exchange rate C/D performed? It appreciated? Why? Because C's inflation is lower than D's inflation. What happened to C/E ? It depreciated? Why? Because C's inflation in this case is higher than E's. What if the exchange rates remained roughly the same within a band of $[-0.1,0.1]$ percent for a very long period of time. What would that mean exactly? That the inflation rates of the two countries you are looking at are roughly speaking, similar!
 
 <br>
 
