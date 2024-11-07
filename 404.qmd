@@ -1,6 +1,6 @@
 :::{.box .bs-right}
 
-# PAGE NOT FOUND
+# PAGE KILLED
 :::
 
 :::{.box .bs-bottom .text-center}

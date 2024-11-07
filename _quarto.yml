@@ -58,6 +58,8 @@ website:
         href: posts.qmd
       - text: 'TSR'
         href: constitution.qmd
+      - text: 'Github'
+        href: 'https://github.com/lavenirjournal/lavenirjournal.github.io'
     right: |
         Built with Quarto and a lot of ❤️ for 🇲🇺
 format:
